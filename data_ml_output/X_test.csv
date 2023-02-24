@@ -1,0 +1,551 @@
+Order.Quantity,Sales,Discount,Profit,Unit.Price,Shipping.Cost,Product.Base.Margin,Customer.Name,Customer.Segment,Product.Category,Region,Order.Priority,Ship.Mode,Product.Container,Days_to_Ship,Order_Quarter,Order_Month,Order_Weekday,Order_Day,Ship_Month,Ship_Weekday,Ship_Day,Order_Day_cat,Ship_Day_cat
+40,120.150000,0.000000,11.320000,2.880000,1.490000,0.360000,Anthony Rawles,Small Business,Office Supplies,West,Medium,Regular Air,Small Box,2,4,10,3,25,10,5,27,25,27
+19,659.130000,0.090000,187.570000,35.940000,6.660000,0.400000,Thomas Boland,Corporate,Office Supplies,Ontario,High,Regular Air,Small Box,61,4,10,5,10,12,3,10,10,10
+14,321.210000,0.040000,53.440000,22.980000,1.990000,0.460000,Denny Ordway,Small Business,Technology,West,High,Regular Air,Small Pack,2,4,10,4,21,10,6,23,21,23
+29,104.700000,0.090000,42.160000,3.690000,0.500000,0.380000,Adam Hart,Corporate,Office Supplies,Yukon,High,Regular Air,Small Box,30,4,11,0,12,12,2,12,12,12
+48,1463.105000,0.060000,446.990000,35.990000,1.250000,0.570000,Ken Dana,Corporate,Technology,West,Medium,Regular Air,Small Pack,31,1,3,2,7,4,5,7,7,7
+24,10094.430000,0.030000,4451.010000,420.980000,19.990000,0.350000,Sung Pak,Small Business,Office Supplies,West,High,Regular Air,Small Box,-321,4,11,1,29,1,2,12,29,12
+16,124.710000,0.010000,-30.040000,7.350000,5.960000,0.380000,Tracy Hopkins,Small Business,Office Supplies,West,Not Specified,Regular Air,Small Box,2,1,3,0,19,3,2,21,19,21
+31,187.180000,0.090000,28.910000,5.980000,1.670000,0.510000,Luke Schmidt,Home Office,Office Supplies,Prarie,Not Specified,Express Air,Wrap Bag,1,4,10,1,26,10,2,27,26,27
+1,15.730000,0.090000,-9.170000,6.480000,9.540000,0.370000,Tracy Collins,Consumer,Office Supplies,Atlantic,Critical,Regular Air,Small Box,0,2,5,4,25,5,4,25,25,25
+30,1187.550000,0.000000,532.610000,37.700000,2.990000,0.350000,Harold Dahlen,Corporate,Office Supplies,West,Medium,Regular Air,Small Box,2,1,2,5,20,2,0,22,20,22
+9,1137.620000,0.050000,-284.680000,124.490000,51.940000,0.630000,Tom Boeckenhauer,Corporate,Furniture,West,Low,Delivery Truck,Jumbo Box,-117,4,11,2,7,7,4,13,7,13
+25,157.400000,0.070000,-84.000000,6.480000,6.740000,0.370000,Sean O'Donnell,Corporate,Office Supplies,Ontario,Medium,Regular Air,Small Box,30,2,6,4,8,7,6,8,8,8
+33,3093.760000,0.070000,-850.710000,95.990000,35.000000,0.360000,Bobby Elias,Small Business,Office Supplies,Quebec,Low,Express Air,Large Box,2,3,8,2,24,8,4,26,24,26
+40,1710.650000,0.010000,782.010000,41.940000,2.990000,0.350000,Jonathan Doherty,Corporate,Office Supplies,Prarie,High,Regular Air,Small Box,1,3,9,4,14,9,5,15,14,15
+43,287.610000,0.020000,-101.500000,6.480000,6.350000,0.370000,Valerie Takahito,Consumer,Office Supplies,Prarie,High,Regular Air,Small Box,61,1,3,0,1,5,5,1,1,1
+36,1646.050000,0.080000,649.800000,48.040000,7.230000,0.370000,Joy Smith,Consumer,Office Supplies,West,Low,Regular Air,Small Box,61,3,9,6,4,11,4,4,4,4
+43,3832.240000,0.090000,-1570.320000,90.980000,56.200000,0.740000,David Kendrick,Home Office,Furniture,Atlantic,Critical,Express Air,Medium Box,31,1,1,4,9,2,0,9,9,9
+14,9171.710000,0.060000,2636.010000,808.490000,55.300000,0.400000,Laurel Elliston,Home Office,Technology,Atlantic,Medium,Delivery Truck,Jumbo Drum,2,4,10,3,18,10,5,20,18,20
+32,716.840000,0.000000,134.720000,21.780000,5.940000,0.500000,Carlos Daly,Home Office,Office Supplies,Nunavut,Not Specified,Regular Air,Medium Box,31,3,8,0,6,9,3,6,6,6
+2,16.810000,0.050000,-4.140000,6.040000,2.140000,0.380000,David Bremer,Corporate,Office Supplies,Yukon,Critical,Express Air,Wrap Bag,2,1,2,1,17,2,3,19,17,19
+13,1272.830000,0.040000,250.470000,100.980000,7.180000,0.400000,Carlos Soltero,Small Business,Technology,Atlantic,Medium,Regular Air,Small Box,275,4,12,3,30,10,5,1,30,1
+17,1032.072000,0.060000,54.230000,70.890000,89.300000,0.720000,Sam Zeldin,Small Business,Furniture,Ontario,Not Specified,Delivery Truck,Jumbo Box,0,2,6,3,25,6,3,25,25,25
+46,75.600000,0.090000,-225.250000,1.680000,5.280000,0.370000,Debra Catini,Small Business,Office Supplies,Quebec,High,Regular Air,Small Box,0,3,7,5,9,7,5,9,9,9
+43,16116.330000,0.080000,6919.870000,387.990000,19.990000,0.380000,Karen Carlisle,Corporate,Office Supplies,West,Medium,Regular Air,Small Box,-54,1,2,4,26,1,6,3,26,3
+1,17.590000,0.060000,10.850000,2.610000,0.500000,0.390000,Cindy Stewart,Corporate,Office Supplies,Yukon,Critical,Express Air,Small Box,0,4,11,0,9,11,0,9,9,9
+33,5964.190000,0.100000,988.200000,199.990000,24.490000,0.460000,Tonja Turnell,Consumer,Technology,West,Not Specified,Regular Air,Large Box,61,4,10,4,7,12,2,7,7,7
+6,35.650000,0.020000,-5.920000,5.340000,2.990000,0.380000,Cari Schnelling,Home Office,Office Supplies,Northwest Territories,High,Regular Air,Small Box,1,2,5,5,14,5,6,15,14,15
+38,1610.760000,0.100000,-8.670000,43.570000,16.360000,0.550000,Speros Goranitis,Corporate,Office Supplies,Quebec,High,Regular Air,Small Box,62,3,7,1,10,9,0,10,10,10
+3,8.600000,0.090000,-2.030000,2.880000,0.500000,0.390000,Joseph Airdo,Consumer,Office Supplies,Ontario,Medium,Regular Air,Small Box,1,3,7,0,18,7,1,19,18,19
+13,105.940000,0.060000,-566.000000,4.480000,49.000000,0.600000,Carlos Meador,Corporate,Office Supplies,Yukon,Low,Regular Air,Large Box,4,3,7,0,13,7,4,17,13,17
+30,1824.848000,0.000000,364.230000,65.990000,8.800000,0.580000,John Lucas,Small Business,Technology,Ontario,Not Specified,Regular Air,Small Box,2,2,4,4,13,4,6,15,13,15
+11,323.910000,0.090000,-96.530000,30.730000,4.000000,0.750000,Lindsay Castell,Corporate,Technology,Prarie,Medium,Regular Air,Small Box,1,2,4,1,27,4,2,28,27,28
+20,240.740000,0.050000,21.050000,12.280000,5.090000,0.380000,Ken Brennan,Home Office,Office Supplies,Ontario,Medium,Regular Air,Small Box,2,1,3,1,13,3,3,15,13,15
+40,227.370000,0.000000,-92.070000,5.280000,5.610000,0.400000,Dave Brooks,Corporate,Office Supplies,Prarie,Critical,Regular Air,Small Box,0,2,5,3,14,5,3,14,14,14
+50,794.580000,0.050000,11.650000,15.230000,27.750000,0.760000,Lena Radford,Small Business,Furniture,Ontario,High,Delivery Truck,Jumbo Box,1,1,2,5,18,2,6,19,18,19
+19,2569.626500,0.000000,398.010000,155.990000,8.990000,0.550000,Caroline Jumper,Corporate,Technology,Quebec,Critical,Regular Air,Small Box,2,4,11,6,21,11,1,23,21,23
+6,201.830000,0.020000,34.980000,30.980000,5.090000,0.400000,Roy Collins,Corporate,Office Supplies,Prarie,Medium,Regular Air,Small Box,61,3,8,1,7,10,6,7,7,7
+4,28.150000,0.090000,-10.090000,6.280000,5.290000,0.430000,Helen Wasserman,Corporate,Furniture,Quebec,Critical,Regular Air,Small Box,30,4,11,0,9,12,2,9,9,9
+5,43.550000,0.100000,-3.640000,9.110000,2.150000,0.400000,Jason Klamczynski,Home Office,Office Supplies,Quebec,Critical,Regular Air,Wrap Bag,61,4,10,5,10,12,3,10,10,10
+11,18.260000,0.050000,-3.890000,1.680000,0.700000,0.600000,Dianna Vittorini,Corporate,Office Supplies,Yukon,Not Specified,Regular Air,Wrap Bag,3,3,9,6,26,9,2,29,26,29
+45,20333.816000,0.020000,-1430.450000,550.980000,147.120000,0.800000,Erica Bern,Small Business,Furniture,Atlantic,Low,Delivery Truck,Jumbo Box,37,3,7,6,8,8,1,14,8,14
+35,144.060000,0.010000,-117.270000,3.810000,5.440000,0.360000,Michelle Arnett,Home Office,Office Supplies,West,Medium,Regular Air,Small Box,2,4,10,3,25,10,5,27,25,27
+16,950.464000,0.020000,-763.800000,71.370000,69.000000,0.680000,Nick Zandusky,Small Business,Furniture,Prarie,High,Regular Air,Large Box,30,2,6,1,2,7,3,2,2,2
+50,325.240000,0.050000,-79.420000,6.540000,5.270000,0.360000,Scott Williamson,Small Business,Office Supplies,Atlantic,Medium,Regular Air,Small Box,1,1,2,0,22,2,1,23,22,23
+43,447.120000,0.080000,-14.270000,10.640000,5.160000,0.570000,Alyssa Crouse,Corporate,Furniture,West,Medium,Regular Air,Small Box,1,2,5,2,30,5,3,31,30,31
+16,1648.330000,0.070000,-210.140000,100.890000,42.000000,0.610000,Carlos Soltero,Consumer,Furniture,Prarie,Medium,Delivery Truck,Jumbo Drum,-235,4,11,3,3,3,6,13,3,13
+8,704.770000,0.010000,-298.900000,81.940000,55.810000,0.600000,Shaun Chance,Corporate,Furniture,West,Not Specified,Delivery Truck,Jumbo Box,1,4,12,6,12,12,0,13,12,13
+29,194.290000,0.090000,-177.170000,6.840000,8.370000,0.580000,Tamara Chand,Consumer,Office Supplies,Ontario,Low,Regular Air,Small Pack,212,1,1,0,12,8,2,12,12,12
+28,4671.149500,0.070000,947.310000,200.990000,4.200000,0.590000,Alan Schoenberger,Corporate,Technology,Ontario,Critical,Regular Air,Small Box,28,1,2,5,5,3,5,5,5,5
+40,1184.030000,0.040000,-20.790000,30.730000,4.000000,0.750000,Giulietta Weimer,Home Office,Technology,West,Medium,Regular Air,Small Box,1,3,7,1,21,7,2,22,21,22
+39,2650.770000,0.080000,-824.430000,70.710000,37.580000,0.780000,Darren Powers,Corporate,Furniture,West,Low,Regular Air,Wrap Bag,0,3,7,5,28,7,5,28,28,28
+44,865.270000,0.030000,11.550000,19.980000,4.000000,0.680000,Giulietta Baptist,Home Office,Technology,Atlantic,Low,Regular Air,Small Box,61,3,9,5,8,11,3,8,8,8
+48,5318.890000,0.060000,525.150000,111.030000,8.640000,0.780000,Valerie Mitchum,Home Office,Office Supplies,Quebec,High,Regular Air,Small Box,2,3,7,4,15,7,6,17,15,17
+41,980.950000,0.020000,234.680000,22.840000,8.180000,0.390000,Alan Shonely,Small Business,Office Supplies,Atlantic,High,Regular Air,Small Box,2,4,10,6,28,10,1,30,28,30
+16,621.930000,0.080000,-49.770000,39.980000,4.000000,0.700000,Emily Grady,Home Office,Technology,West,Critical,Regular Air,Small Box,-114,2,5,1,31,2,6,6,31,6
+7,75.720000,0.020000,20.290000,9.770000,6.020000,0.480000,Anna Haberlin,Corporate,Furniture,Ontario,Not Specified,Regular Air,Medium Box,0,2,5,6,16,5,6,16,16,16
+37,226.650000,0.000000,46.410000,5.980000,0.960000,0.600000,Justin Knight,Corporate,Office Supplies,West,Not Specified,Regular Air,Wrap Bag,1,1,2,3,19,2,4,20,19,20
+3,21.550000,0.090000,-2.870000,7.310000,0.490000,0.380000,Raymond Fair,Small Business,Office Supplies,West,Medium,Regular Air,Small Box,0,3,8,6,19,8,6,19,19,19
+8,40.260000,0.010000,-27.440000,4.280000,5.680000,0.400000,Dorris Love,Home Office,Office Supplies,Quebec,Not Specified,Regular Air,Small Box,2,1,1,2,19,1,4,21,19,21
+34,772.560000,0.040000,143.870000,22.980000,4.500000,0.550000,Maria Bertelson,Home Office,Office Supplies,Ontario,Not Specified,Express Air,Small Box,2,3,8,3,18,8,5,20,18,20
+4,12.800000,0.000000,-2.210000,2.880000,0.700000,0.560000,Sean Wendt,Corporate,Office Supplies,Atlantic,Critical,Regular Air,Wrap Bag,2,3,8,4,13,8,6,15,13,15
+21,316.350000,0.060000,117.910000,15.680000,3.730000,0.460000,Bobby Odegard,Corporate,Furniture,Ontario,Not Specified,Regular Air,Small Pack,2,1,3,4,23,3,6,25,23,25
+34,3361.840000,0.080000,1211.760000,100.970000,14.000000,0.370000,Jennifer Jackson,Home Office,Technology,Prarie,Not Specified,Delivery Truck,Jumbo Drum,30,3,9,3,10,10,5,10,10,10
+3,1759.650000,0.060000,-2213.750000,599.990000,24.490000,0.500000,William Brown,Corporate,Technology,Prarie,Not Specified,Regular Air,Large Box,1,1,3,0,23,3,1,24,23,24
+17,1782.680000,0.080000,280.640000,107.530000,5.810000,0.650000,Mitch Webber,Corporate,Furniture,Quebec,Critical,Regular Air,Medium Box,61,4,10,5,1,12,3,1,1,1
+16,9695.840000,0.000000,2752.110000,599.990000,24.490000,0.370000,Jasper Cacioppo,Home Office,Technology,Quebec,Low,Regular Air,Large Box,9,3,7,0,16,7,2,25,16,25
+14,438.470000,0.020000,157.890000,30.560000,2.990000,0.350000,Bruce Stewart,Corporate,Office Supplies,Prarie,Not Specified,Express Air,Small Box,31,2,5,0,2,6,3,2,2,2
+34,223.760000,0.030000,-139.660000,6.480000,7.910000,0.370000,Julie Kriz,Corporate,Office Supplies,Quebec,Not Specified,Regular Air,Small Box,1,3,8,5,15,8,6,16,15,16
+39,1140.260000,0.040000,387.200000,29.180000,8.550000,0.420000,Dana Kaydos,Corporate,Furniture,Prarie,Not Specified,Express Air,Small Box,2,1,2,2,25,2,4,27,25,27
+45,2601.790500,0.020000,748.200000,65.990000,5.260000,0.560000,Jill Stevenson,Consumer,Technology,Prarie,Medium,Regular Air,Small Box,2,4,11,1,27,11,3,29,27,29
+16,61.500000,0.090000,-16.270000,3.980000,2.970000,0.350000,Astrea Jones,Corporate,Office Supplies,Atlantic,Critical,Regular Air,Wrap Bag,1,2,6,2,29,6,3,30,29,30
+33,332.950000,0.050000,-28.160000,9.650000,6.220000,0.550000,Heather Jas,Corporate,Furniture,West,Not Specified,Regular Air,Small Box,1,3,8,4,28,8,5,29,28,29
+16,136.980000,0.040000,44.120000,8.740000,1.390000,0.380000,Sarah Foster,Corporate,Office Supplies,Ontario,Low,Regular Air,Small Box,122,3,8,3,11,12,6,11,11,11
+36,697.410000,0.040000,81.710000,18.970000,9.030000,0.370000,Carlos Soltero,Small Business,Office Supplies,Northwest Territories,Critical,Regular Air,Small Box,1,4,10,0,29,10,1,30,29,30
+42,229.880000,0.050000,-75.250000,5.280000,5.060000,0.370000,Cari Sayre,Home Office,Office Supplies,West,High,Express Air,Small Box,61,3,8,1,2,10,6,2,2,2
+17,57.960000,0.060000,-47.320000,3.280000,3.970000,0.560000,Andrew Roberts,Small Business,Office Supplies,West,Critical,Regular Air,Wrap Bag,0,2,6,2,29,6,2,29,29,29
+3,3.960000,0.100000,-1.720000,1.140000,0.700000,0.380000,Jeremy Farry,Small Business,Office Supplies,Quebec,Not Specified,Regular Air,Wrap Bag,2,2,4,2,25,4,4,27,25,27
+50,881.650000,0.080000,41.270000,18.970000,9.030000,0.370000,Alice McCarthy,Corporate,Office Supplies,West,Not Specified,Regular Air,Small Box,2,4,12,4,17,12,6,19,17,19
+26,393.590000,0.060000,-8.080000,15.010000,8.400000,0.390000,Jennifer Braxton,Small Business,Office Supplies,Atlantic,High,Regular Air,Small Box,2,4,11,1,24,11,3,26,24,26
+41,243.370000,0.010000,-106.420000,5.800000,5.590000,0.400000,Shaun Chance,Corporate,Office Supplies,West,Low,Regular Air,Small Box,-143,3,8,2,3,3,6,13,3,13
+19,178.440000,0.030000,50.130000,9.110000,2.150000,0.400000,John Dryer,Corporate,Office Supplies,Prarie,High,Regular Air,Wrap Bag,28,1,2,2,10,3,2,10,10,10
+31,109.490000,0.040000,26.090000,3.380000,0.850000,0.480000,Christopher Schild,Corporate,Office Supplies,Atlantic,Low,Regular Air,Wrap Bag,0,1,3,2,16,3,2,16,16,16
+1,57.840000,0.070000,-41.770000,60.970000,4.500000,0.560000,Ralph Arnett,Consumer,Office Supplies,Quebec,Medium,Regular Air,Small Box,2,2,5,3,28,5,5,30,28,30
+43,7679.512000,0.000000,2307.420000,205.990000,5.000000,0.590000,Nick Crebassa,Corporate,Technology,Prarie,High,Regular Air,Small Box,2,1,2,4,24,2,6,26,24,26
+5,21.320000,0.080000,2.200000,3.380000,0.850000,0.480000,Claire Good,Home Office,Office Supplies,West,Medium,Express Air,Wrap Bag,0,4,12,6,26,12,6,26,26,26
+22,138.240000,0.060000,-48.220000,6.370000,5.190000,0.380000,Edward Becker,Corporate,Office Supplies,Ontario,Medium,Regular Air,Small Box,31,4,10,4,2,11,0,2,2,2
+17,3816.590000,0.010000,191.470000,208.160000,68.020000,0.580000,Sonia Sunley,Corporate,Office Supplies,West,Critical,Delivery Truck,Jumbo Drum,2,2,6,0,25,6,2,27,25,27
+13,136.240000,0.070000,-81.770000,9.710000,9.450000,0.600000,Bill Eplett,Corporate,Office Supplies,Quebec,Low,Regular Air,Small Box,7,1,2,6,15,2,6,22,15,22
+19,2536.180000,0.100000,350.620000,142.860000,19.990000,0.560000,Dan Lawera,Corporate,Office Supplies,Ontario,Not Specified,Regular Air,Small Box,1,4,10,4,28,10,5,29,28,29
+17,118.360000,0.080000,-60.650000,6.480000,7.370000,0.370000,Alex Avila,Home Office,Office Supplies,West,Low,Express Air,Small Box,-232,4,12,5,4,4,4,16,4,16
+40,2135.973500,0.070000,239.400000,65.990000,8.990000,0.590000,Barry Gonzalez,Consumer,Technology,Quebec,High,Regular Air,Small Box,3,4,10,6,14,10,2,17,14,17
+7,1810.670000,0.090000,-541.870000,270.980000,50.000000,0.770000,Muhammed MacIntyre,Small Business,Furniture,Northwest Territories,High,Delivery Truck,Jumbo Drum,1,3,9,1,21,9,2,22,21,22
+13,2323.360000,0.080000,220.390000,179.990000,19.990000,0.480000,Sonia Sunley,Corporate,Technology,West,Low,Regular Air,Small Box,214,2,5,1,1,12,5,1,1,1
+22,3122.550000,0.070000,-574.560000,145.980000,46.200000,0.690000,Laura Armstrong,Corporate,Furniture,Ontario,Not Specified,Delivery Truck,Jumbo Box,1,4,10,1,13,10,2,14,13,14
+11,558.620000,0.030000,118.320000,48.580000,3.990000,0.560000,Justin Hirsh,Consumer,Office Supplies,Atlantic,High,Regular Air,Small Box,2,1,2,2,17,2,4,19,17,19
+29,146.680000,0.080000,-8.330000,5.280000,2.990000,0.370000,Sung Chung,Home Office,Office Supplies,West,Medium,Regular Air,Small Box,0,2,6,1,15,6,1,15,15,15
+45,311.100000,0.040000,86.600000,6.880000,2.000000,0.390000,Alex Grayson,Consumer,Office Supplies,Quebec,Not Specified,Regular Air,Wrap Bag,-173,2,6,1,29,1,3,7,29,7
+17,1556.610000,0.060000,-485.550000,89.830000,35.000000,0.830000,Tracy Blumstein,Home Office,Office Supplies,Prarie,High,Regular Air,Large Box,61,2,6,3,4,8,1,4,4,4
+29,1000.780000,0.050000,109.330000,34.580000,8.990000,0.560000,Matt Collins,Consumer,Office Supplies,West,Not Specified,Express Air,Small Pack,30,2,4,6,3,5,1,3,3,3
+45,852.050000,0.100000,-20.600000,19.980000,10.490000,0.490000,Randy Bradley,Small Business,Furniture,Prarie,Medium,Regular Air,Small Box,2,3,8,4,27,8,6,29,27,29
+50,2842.540000,0.050000,1315.750000,58.100000,1.490000,0.380000,Natalie Webber,Corporate,Office Supplies,Prarie,High,Regular Air,Small Box,0,1,1,6,18,1,6,18,18,18
+4,7406.490000,0.030000,701.220000,1889.990000,19.990000,0.360000,Arthur Prichep,Home Office,Office Supplies,Ontario,Medium,Regular Air,Small Box,-204,3,7,0,30,1,6,8,30,8
+20,246.060000,0.080000,20.670000,12.070000,6.200000,0.520000,Tom Prescott,Small Business,Furniture,Yukon,Low,Regular Air,Wrap Bag,2,1,3,1,15,3,3,17,15,17
+3,523.110000,0.050000,-214.530000,159.310000,60.000000,0.550000,Nathan Cano,Consumer,Furniture,Atlantic,Critical,Delivery Truck,Jumbo Drum,31,1,3,4,5,4,0,5,5,5
+28,205.430000,0.000000,-24.300000,6.540000,5.270000,0.360000,Jack Garza,Corporate,Office Supplies,Prarie,Medium,Express Air,Small Box,0,3,9,2,5,9,2,5,5,5
+21,2561.670500,0.080000,88.770000,155.990000,8.080000,0.600000,Michael Chen,Consumer,Technology,Quebec,Critical,Regular Air,Small Box,-84,2,4,5,30,2,5,5,30,5
+12,2230.970000,0.060000,273.270000,180.980000,26.200000,0.590000,Amy Cox,Corporate,Furniture,Ontario,Medium,Delivery Truck,Jumbo Drum,1,4,10,4,23,10,5,24,23,24
+16,88.240000,0.010000,-56.600000,4.980000,4.620000,0.640000,Phillina Ober,Small Business,Technology,West,Medium,Regular Air,Small Pack,2,3,9,4,18,9,6,20,18,20
+6,1770.700000,0.050000,-448.250000,280.980000,57.000000,0.780000,Bart Folk,Corporate,Furniture,West,Not Specified,Delivery Truck,Jumbo Drum,2,4,11,5,17,11,0,19,17,19
+39,14591.440000,0.070000,5475.800000,400.970000,48.260000,0.360000,Emily Phan,Consumer,Technology,West,Critical,Delivery Truck,Jumbo Box,30,3,9,4,4,10,6,4,4,4
+43,2980.150000,0.050000,-865.980000,70.710000,37.580000,0.780000,Edward Nazzal,Home Office,Furniture,Ontario,Medium,Express Air,Wrap Bag,61,2,6,4,12,8,2,12,12,12
+19,146.630000,0.010000,-30.060000,6.480000,6.220000,0.370000,Gene Hale,Consumer,Office Supplies,Atlantic,Critical,Express Air,Small Box,31,4,10,3,8,11,6,8,8,8
+36,181.950000,0.030000,-132.260000,4.890000,6.070000,0.390000,Nora Paige,Small Business,Office Supplies,West,High,Regular Air,Small Box,2,1,2,2,24,2,4,26,24,26
+15,1187.152500,0.030000,33.190000,95.990000,4.900000,0.560000,Evan Bailliet,Corporate,Technology,Prarie,High,Regular Air,Small Box,0,3,8,5,8,8,5,8,8,8
+1,54.220000,0.020000,-19.090000,48.910000,5.810000,0.380000,Tamara Manning,Corporate,Office Supplies,West,Low,Regular Air,Small Box,-261,4,11,0,28,3,5,12,28,12
+41,1991.930000,0.020000,951.500000,48.940000,5.860000,0.350000,Ionia McGrath,Small Business,Office Supplies,Atlantic,Medium,Regular Air,Small Box,1,2,6,4,15,6,5,16,15,16
+14,50.800000,0.090000,16.790000,3.690000,0.500000,0.380000,Luke Schmidt,Home Office,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,1,4,12,2,22,12,3,23,22,23
+15,441.580000,0.070000,117.390000,30.980000,5.090000,0.400000,Mathew Reese,Small Business,Office Supplies,Quebec,Not Specified,Regular Air,Small Box,31,2,5,0,3,6,3,3,3,3
+22,1082.800000,0.020000,299.350000,48.580000,3.990000,0.560000,Barry Gonzalez,Small Business,Office Supplies,Quebec,Low,Regular Air,Small Box,2,3,9,6,19,9,1,21,19,21
+16,113.250000,0.030000,-43.430000,6.480000,6.650000,0.360000,Logan Haushalter,Corporate,Office Supplies,Quebec,Medium,Regular Air,Small Box,-204,3,7,0,30,1,6,8,30,8
+36,3436.900000,0.030000,-398.110000,92.230000,39.610000,0.670000,Jay Kimmel,Small Business,Furniture,Ontario,Critical,Express Air,Medium Box,-176,4,11,5,5,5,4,13,5,13
+26,53.930000,0.040000,-10.950000,2.080000,1.490000,0.380000,Rob Dowd,Corporate,Office Supplies,West,Low,Regular Air,Small Box,123,2,5,2,9,9,6,9,9,9
+38,3701.520500,0.050000,894.060000,115.990000,5.920000,0.580000,Katrina Bavinger,Consumer,Technology,Prarie,Not Specified,Regular Air,Small Box,-321,4,11,2,28,1,3,12,28,12
+1,3501.790000,0.010000,-7838.330000,3502.140000,8.730000,0.570000,Tamara Willingham,Corporate,Technology,Yukon,Critical,Delivery Truck,Jumbo Box,30,2,4,2,8,5,4,8,8,8
+49,174.810000,0.070000,74.820000,3.750000,0.500000,0.370000,Lycoris Saunders,Corporate,Office Supplies,Prarie,Medium,Regular Air,Small Box,30,3,9,6,9,10,1,9,9,9
+28,2841.439500,0.080000,374.630000,125.990000,7.690000,0.590000,Yoseph Carroll,Consumer,Technology,West,Medium,Regular Air,Small Box,1,2,4,2,29,4,3,30,29,30
+45,712.040000,0.070000,-110.930000,15.990000,9.400000,0.490000,Edward Hooks,Consumer,Technology,Atlantic,High,Regular Air,Small Box,1,3,9,5,22,9,6,23,22,23
+27,46.860000,0.060000,-37.080000,1.700000,1.990000,0.510000,Tracy Collins,Consumer,Technology,Atlantic,Not Specified,Regular Air,Small Pack,30,2,6,0,1,7,2,1,1,1
+36,82.090000,0.020000,11.440000,2.210000,1.000000,0.380000,Emily Grady,Home Office,Office Supplies,Prarie,Not Specified,Regular Air,Wrap Bag,2,4,11,2,28,11,4,30,28,30
+29,1935.250000,0.040000,652.190000,63.980000,11.550000,0.380000,Annie Thurman,Home Office,Office Supplies,Ontario,High,Regular Air,Small Box,1,3,7,2,21,7,3,22,21,22
+14,1966.260000,0.060000,-34.790000,140.850000,19.990000,0.730000,Guy Armstrong,Corporate,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,1,2,6,0,14,6,1,15,14,15
+17,233.010000,0.040000,88.880000,12.970000,1.490000,0.350000,Nat Carroll,Home Office,Office Supplies,Ontario,High,Express Air,Small Box,31,4,10,4,12,11,0,12,12,12
+2,15.810000,0.060000,-9.880000,4.980000,6.070000,0.360000,Jim Kriz,Consumer,Office Supplies,Ontario,Critical,Regular Air,Small Box,61,2,6,3,3,8,1,3,3,3
+17,135.380000,0.050000,-71.120000,7.980000,6.500000,0.590000,Sonia Cooley,Corporate,Office Supplies,West,Not Specified,Regular Air,Medium Box,61,3,8,6,7,10,4,7,7,7
+19,251.450000,0.060000,90.000000,13.400000,4.950000,0.370000,Dianna Vittorini,Corporate,Furniture,Yukon,High,Regular Air,Small Pack,61,2,6,6,12,8,4,12,12,12
+22,3220.580000,0.040000,1046.690000,150.980000,13.990000,0.380000,Frank Hawley,Home Office,Technology,Ontario,Not Specified,Regular Air,Medium Box,-290,4,12,2,2,2,6,15,2,15
+30,501.320000,0.040000,-119.080000,15.990000,13.180000,0.370000,Muhammed MacIntyre,Small Business,Office Supplies,Northwest Territories,Not Specified,Regular Air,Small Box,-174,4,10,1,4,4,2,13,4,13
+4,3510.820000,0.050000,232.440000,896.990000,19.990000,0.380000,Susan Vittorini,Home Office,Office Supplies,Northwest Territories,Critical,Regular Air,Small Box,-144,2,5,5,30,1,1,6,30,6
+16,92.060000,0.100000,5.660000,5.980000,2.500000,0.360000,Carlos Soltero,Consumer,Office Supplies,Atlantic,High,Regular Air,Small Box,-293,4,10,1,30,1,2,11,30,11
+23,72.930000,0.010000,28.550000,3.150000,0.490000,0.370000,Denise Leinenbach,Home Office,Office Supplies,Atlantic,High,Regular Air,Small Box,2,2,5,0,25,5,2,27,25,27
+50,306.130000,0.090000,87.600000,5.980000,1.490000,0.390000,Dianna Arnett,Home Office,Office Supplies,Atlantic,Low,Express Air,Small Box,2,1,3,6,20,3,1,22,20,22
+23,149.310000,0.060000,-98.420000,6.480000,7.810000,0.370000,Raymond Book,Consumer,Office Supplies,West,Low,Regular Air,Small Box,-141,4,12,2,7,7,1,19,7,19
+49,142.100000,0.010000,37.030000,2.880000,0.990000,0.360000,Michelle Huthwaite,Home Office,Office Supplies,Quebec,Low,Regular Air,Small Box,4,2,5,5,21,5,2,25,21,25
+39,493.260000,0.020000,263.400000,12.530000,0.490000,0.380000,Darrin Martin,Small Business,Office Supplies,Ontario,Not Specified,Regular Air,Small Box,0,3,7,0,27,7,0,27,27,27
+3,1358.776000,0.010000,-163.200000,550.980000,45.700000,0.710000,Alex Russell,Home Office,Furniture,West,Low,Delivery Truck,Jumbo Box,150,1,2,3,4,7,6,4,4,4
+15,653.871000,0.090000,-311.050000,55.990000,5.000000,0.830000,Logan Haushalter,Corporate,Technology,Prarie,High,Regular Air,Small Pack,0,4,12,6,19,12,6,19,19,19
+27,259.720000,0.070000,78.050000,10.060000,2.060000,0.390000,Ann Blume,Corporate,Office Supplies,Ontario,High,Regular Air,Wrap Bag,0,4,11,6,22,11,6,22,22,22
+34,61.450000,0.060000,0.620000,1.760000,0.700000,0.560000,Liz Willingham,Corporate,Office Supplies,Quebec,Low,Regular Air,Wrap Bag,-82,2,4,4,27,2,6,5,27,5
+28,1581.230000,0.030000,760.790000,55.980000,5.150000,0.360000,Penelope Sewall,Home Office,Office Supplies,West,Critical,Regular Air,Small Box,2,1,1,6,24,1,1,26,24,26
+6,1042.960000,0.040000,163.800000,165.980000,19.990000,0.400000,Eudokia Martin,Home Office,Office Supplies,Ontario,Critical,Regular Air,Small Box,2,2,5,3,24,5,5,26,24,26
+23,65.910000,0.010000,0.760000,2.780000,1.340000,0.450000,Quincy Jones,Small Business,Office Supplies,West,Medium,Regular Air,Wrap Bag,0,3,7,0,16,7,0,16,16,16
+42,825.630000,0.030000,379.740000,18.940000,1.490000,0.350000,Roger Demir,Consumer,Office Supplies,West,Not Specified,Regular Air,Small Box,2,2,4,1,17,4,3,19,17,19
+39,4647.690000,0.020000,182.530000,113.980000,30.000000,0.690000,Thomas Boland,Corporate,Furniture,Ontario,Medium,Delivery Truck,Jumbo Drum,2,2,5,6,22,5,1,24,22,24
+23,524.250000,0.060000,152.310000,22.230000,8.990000,0.410000,Arianne Irving,Corporate,Furniture,Prarie,Medium,Express Air,Small Pack,3,2,6,2,22,6,5,25,22,25
+2,42.300000,0.060000,-25.380000,19.230000,6.150000,0.440000,Steve Chapman,Corporate,Furniture,Prarie,Low,Regular Air,Small Pack,0,3,8,0,31,8,0,31,31,31
+15,742.800000,0.020000,265.870000,49.340000,10.250000,0.570000,Ken Black,Consumer,Furniture,Prarie,Low,Regular Air,Large Box,122,2,4,6,1,8,2,1,1,1
+43,9750.550000,0.000000,1061.610000,216.600000,64.200000,0.590000,Filia McAdams,Small Business,Furniture,Atlantic,Critical,Delivery Truck,Jumbo Drum,1,4,11,6,18,11,0,19,18,19
+38,188.380000,0.040000,-120.120000,4.910000,5.680000,0.360000,Karen Bern,Corporate,Office Supplies,Prarie,Low,Regular Air,Small Box,2,1,1,4,21,1,6,23,21,23
+43,24233.540000,0.070000,6492.670000,599.990000,24.490000,0.500000,Raymond Book,Consumer,Technology,West,Not Specified,Regular Air,Large Box,1,4,10,2,19,10,3,20,19,20
+36,4169.930000,0.100000,1765.540000,120.980000,9.070000,0.350000,Michael Dominguez,Home Office,Office Supplies,Ontario,Critical,Express Air,Small Box,0,3,7,4,6,7,4,6,6,6
+32,3114.050000,0.010000,-1207.180000,95.950000,74.350000,0.570000,Joy Smith,Corporate,Furniture,Prarie,High,Delivery Truck,Jumbo Drum,61,2,5,5,5,7,3,5,5,5
+46,6730.070000,0.050000,-1134.610000,150.980000,66.270000,0.650000,Richard Eichhorn,Consumer,Furniture,Prarie,Not Specified,Delivery Truck,Jumbo Box,0,2,6,0,4,6,0,4,4,4
+45,4072.817500,0.100000,897.360000,115.990000,3.000000,0.590000,Anthony Rawles,Small Business,Technology,West,Medium,Regular Air,Small Box,2,1,1,2,18,1,4,20,18,20
+46,241.810000,0.020000,-94.830000,4.910000,4.970000,0.380000,Robert Dilbeck,Corporate,Office Supplies,Prarie,Low,Regular Air,Small Box,-23,2,5,1,29,5,6,6,29,6
+15,1866.120000,0.070000,400.690000,123.380000,24.490000,0.460000,Suzanne McNair,Small Business,Office Supplies,Prarie,Medium,Regular Air,Large Box,2,1,1,0,31,2,2,2,31,2
+50,839.070000,0.060000,212.730000,16.740000,5.080000,0.360000,Frank Gastineau,Small Business,Office Supplies,Prarie,Low,Regular Air,Small Box,-228,3,9,3,1,1,6,16,1,16
+17,224.090000,0.000000,-27.920000,12.440000,6.270000,0.570000,Rob Haberlin,Consumer,Office Supplies,West,Not Specified,Regular Air,Medium Box,31,1,1,1,10,2,4,10,10,10
+6,751.710000,0.090000,50.830000,131.120000,0.990000,0.550000,Deanra Eno,Corporate,Office Supplies,Atlantic,High,Regular Air,Small Box,0,2,5,1,8,5,1,8,8,8
+40,259.830000,0.000000,80.730000,5.980000,1.490000,0.390000,Darrin Sayre,Consumer,Office Supplies,Atlantic,Not Specified,Regular Air,Small Box,-86,4,12,2,9,9,0,14,9,14
+7,35.580000,0.040000,-19.950000,4.420000,4.990000,0.380000,Liz Carlisle,Corporate,Office Supplies,Prarie,Medium,Regular Air,Small Box,1,4,12,0,20,12,1,21,20,21
+16,279.327000,0.050000,75.210000,20.990000,0.990000,0.370000,Darren Powers,Corporate,Technology,Ontario,Medium,Regular Air,Wrap Bag,1,4,12,1,25,12,2,26,25,26
+43,525.770000,0.080000,34.630000,11.990000,5.990000,0.360000,Dario Medina,Small Business,Technology,Yukon,Critical,Express Air,Medium Box,31,3,7,1,5,8,4,5,5,5
+4,207.550000,0.080000,16.230000,52.710000,2.500000,0.360000,Sanjit Chand,Home Office,Office Supplies,West,Low,Regular Air,Small Box,0,3,8,4,10,8,4,10,10,10
+39,1818.760000,0.020000,843.120000,46.940000,6.770000,0.440000,Arthur Prichep,Home Office,Furniture,Ontario,Medium,Regular Air,Small Box,3,3,7,6,25,7,2,28,25,28
+20,2213.920000,0.030000,768.340000,105.980000,13.990000,0.650000,Alejandro Ballentine,Small Business,Furniture,West,High,Regular Air,Medium Box,2,2,5,5,29,5,0,31,29,31
+27,7937.590000,0.030000,1383.240000,300.980000,54.920000,0.550000,Duane Noonan,Corporate,Furniture,Yukon,Not Specified,Delivery Truck,Jumbo Box,59,1,2,1,10,4,4,10,10,10
+27,4722.830000,0.010000,1749.780000,165.980000,19.990000,0.400000,Sally Knutson,Consumer,Office Supplies,West,High,Regular Air,Small Box,-87,4,12,4,9,9,1,13,9,13
+19,208.280000,0.070000,3.630000,11.480000,5.430000,0.360000,Skye Norling,Home Office,Office Supplies,Nunavut,High,Regular Air,Small Box,0,1,1,4,20,1,4,20,20,20
+7,44.740000,0.040000,-20.100000,5.740000,5.010000,0.390000,Shirley Jackson,Corporate,Office Supplies,Yukon,Medium,Regular Air,Small Box,1,2,6,4,25,6,5,26,25,26
+22,66.190000,0.020000,15.840000,2.880000,0.990000,0.360000,Dave Hallsten,Home Office,Office Supplies,Ontario,Medium,Regular Air,Small Box,29,1,2,6,12,3,0,12,12,12
+4,11.080000,0.060000,-8.930000,1.740000,4.080000,0.530000,Giulietta Dortch,Corporate,Furniture,Yukon,Critical,Regular Air,Small Pack,1,1,1,6,25,1,0,26,25,26
+11,35.170000,0.030000,5.580000,3.080000,0.990000,0.370000,Brad Eason,Small Business,Office Supplies,Northwest Territories,Critical,Regular Air,Small Box,1,2,4,2,25,4,3,26,25,26
+37,187.370000,0.010000,-85.010000,4.980000,4.950000,0.370000,Caroline Jumper,Corporate,Office Supplies,Quebec,Medium,Regular Air,Small Box,62,3,7,5,2,9,4,2,2,2
+8,669.690000,0.030000,-297.020000,80.980000,35.000000,0.810000,Scot Coram,Corporate,Office Supplies,Ontario,Medium,Regular Air,Large Box,30,3,9,1,4,10,3,4,4,4
+17,877.810000,0.020000,-44.400000,49.990000,19.990000,0.450000,Art Miller,Corporate,Technology,West,Medium,Regular Air,Small Box,1,2,6,0,27,6,1,28,27,28
+21,340.700000,0.050000,11.650000,15.230000,27.750000,0.760000,Benjamin Patterson,Corporate,Furniture,Ontario,Critical,Delivery Truck,Jumbo Box,2,1,2,4,26,2,6,28,26,28
+18,611.710000,0.020000,93.230000,31.740000,12.620000,0.370000,Daniel Raglin,Corporate,Office Supplies,Ontario,Not Specified,Regular Air,Small Box,2,1,3,2,14,3,4,16,14,16
+23,91.940000,0.010000,-10.110000,3.950000,2.000000,0.530000,Maxwell Schwartz,Corporate,Office Supplies,Prarie,Critical,Regular Air,Wrap Bag,30,2,4,6,8,5,1,8,8,8
+35,1624.670000,0.040000,504.350000,45.190000,1.990000,0.550000,Henia Zydlo,Home Office,Technology,Prarie,Low,Regular Air,Small Pack,125,2,6,3,10,10,2,13,10,13
+20,234.090000,0.010000,-11.690000,10.640000,5.160000,0.570000,Justin Knight,Corporate,Furniture,West,Critical,Express Air,Small Box,2,1,3,2,25,3,4,27,25,27
+18,2389.300000,0.010000,589.380000,128.240000,12.650000,0.240000,Elpida Rittenbach,Consumer,Furniture,Atlantic,Critical,Regular Air,Medium Box,0,3,7,6,25,7,6,25,25,25
+41,356.280000,0.070000,65.760000,8.690000,2.990000,0.390000,Tom Prescott,Small Business,Office Supplies,West,Low,Express Air,Small Box,9,4,11,6,11,11,1,20,11,20
+48,8374.132000,0.060000,2568.100000,205.990000,8.990000,0.560000,Adam Shillingsburg,Corporate,Technology,West,Low,Regular Air,Small Box,-81,4,12,2,9,9,5,19,9,19
+46,2968.660000,0.070000,1077.490000,63.940000,14.480000,0.460000,Michael Grace,Corporate,Furniture,Prarie,High,Regular Air,Small Box,0,3,8,4,5,8,4,5,5,5
+48,166.130000,0.000000,-119.160000,3.280000,3.970000,0.560000,Cynthia Voltz,Corporate,Office Supplies,Quebec,High,Regular Air,Wrap Bag,2,2,4,1,24,4,3,26,24,26
+50,820.520000,0.010000,-191.220000,15.990000,13.180000,0.370000,Don Jones,Corporate,Office Supplies,Northwest Territories,Critical,Regular Air,Small Box,2,3,8,1,18,8,3,20,18,20
+44,302.590000,0.050000,-124.440000,6.680000,6.930000,0.370000,Nora Price,Home Office,Office Supplies,Atlantic,Medium,Express Air,Small Box,1,2,4,2,20,4,3,21,20,21
+29,230.770000,0.090000,-146.240000,8.450000,7.770000,0.550000,Jasper Cacioppo,Home Office,Office Supplies,Quebec,Not Specified,Regular Air,Small Pack,1,4,10,3,20,10,4,21,20,21
+18,130.160000,0.000000,28.870000,7.040000,2.170000,0.380000,Troy Blackwell,Home Office,Office Supplies,Prarie,Critical,Regular Air,Wrap Bag,1,2,4,3,29,4,4,30,29,30
+27,194.350000,0.000000,30.880000,6.750000,2.990000,0.350000,Rick Bensley,Consumer,Office Supplies,Prarie,Medium,Regular Air,Small Box,2,4,11,5,13,11,0,15,13,15
+22,447.230000,0.030000,122.780000,20.240000,6.670000,0.490000,Erin Mull,Small Business,Furniture,Atlantic,High,Regular Air,Small Pack,1,1,3,0,29,3,1,30,29,30
+37,988.420000,0.090000,253.940000,29.170000,6.270000,0.370000,Denise Monton,Home Office,Office Supplies,Prarie,Low,Regular Air,Small Box,2,4,11,2,18,11,4,20,18,20
+1,47.040000,0.060000,-24.630000,42.980000,4.620000,0.560000,Scott Cohen,Consumer,Office Supplies,Ontario,High,Regular Air,Small Box,2,2,4,1,21,4,3,23,21,23
+8,300.200000,0.000000,6.410000,34.760000,8.220000,0.570000,Frank Price,Corporate,Office Supplies,Northwest Territories,Not Specified,Regular Air,Small Box,61,3,9,1,4,11,6,4,4,4
+2,381.600000,0.100000,-319.020000,193.170000,19.990000,0.710000,Alyssa Tate,Small Business,Office Supplies,Atlantic,Low,Regular Air,Small Box,-202,3,9,6,2,2,0,13,2,13
+9,3800.400000,0.030000,1234.570000,420.980000,19.990000,0.350000,Angele Hood,Consumer,Office Supplies,West,Medium,Express Air,Small Box,0,4,12,5,24,12,5,24,24,24
+26,10692.970000,0.050000,-410.390000,424.210000,110.200000,0.670000,Ken Dana,Small Business,Furniture,West,Low,Delivery Truck,Jumbo Box,120,1,1,3,8,5,4,8,8,8
+1,55.430000,0.010000,-48.910000,35.440000,19.990000,0.380000,Sara Luxemburg,Small Business,Office Supplies,Atlantic,High,Regular Air,Small Box,1,4,10,3,22,10,4,23,22,23
+24,349.650000,0.100000,28.550000,14.480000,6.460000,0.380000,Fred Harton,Home Office,Office Supplies,West,Critical,Express Air,Small Box,92,2,6,1,8,9,2,8,8,8
+36,240.140000,0.060000,57.780000,6.880000,2.000000,0.390000,Alan Shonely,Small Business,Office Supplies,Atlantic,Low,Express Air,Wrap Bag,-111,4,12,3,8,8,4,19,8,19
+31,536.830000,0.060000,161.370000,17.480000,1.990000,0.450000,Bill Overfelt,Corporate,Technology,Ontario,Low,Regular Air,Small Pack,0,4,10,4,15,10,4,15,15,15
+20,1388.910000,0.100000,-229.870000,73.980000,4.000000,0.790000,Dennis Kane,Small Business,Technology,Quebec,High,Regular Air,Small Box,-265,4,12,3,3,3,4,13,3,13
+22,79.040000,0.050000,-77.930000,3.280000,5.000000,0.560000,Trudy Bell,Consumer,Office Supplies,West,Low,Regular Air,Wrap Bag,0,2,5,6,8,5,6,8,8,8
+39,680.858500,0.050000,319.100000,20.990000,0.990000,0.370000,Allen Rosenblatt,Small Business,Technology,Northwest Territories,Medium,Regular Air,Wrap Bag,0,3,8,3,25,8,3,25,25,25
+40,291.670000,0.010000,54.460000,6.750000,2.990000,0.350000,Delfina Latchford,Small Business,Office Supplies,Northwest Territories,Not Specified,Regular Air,Small Box,31,3,8,2,3,9,5,3,3,3
+28,481.270000,0.010000,-128.890000,15.700000,11.250000,0.600000,Mick Hernandez,Home Office,Office Supplies,Ontario,Low,Regular Air,Small Box,5,2,4,1,20,4,6,25,20,25
+1,28.750000,0.090000,-14.350000,14.270000,7.270000,0.380000,Roger Demir,Consumer,Office Supplies,West,Not Specified,Express Air,Small Box,0,4,12,3,9,12,3,9,9,9
+1,184.460000,0.050000,-106.330000,160.980000,30.000000,0.620000,Jessica Myrick,Small Business,Furniture,Ontario,Medium,Delivery Truck,Jumbo Drum,2,4,10,3,14,10,5,16,14,16
+35,2339.640000,0.100000,-1916.710000,71.370000,69.000000,0.680000,Jim Karlsson,Small Business,Furniture,West,High,Regular Air,Large Box,-86,1,3,4,30,1,2,4,30,4
+1,28.960000,0.060000,-27.070000,19.980000,8.680000,0.370000,Roger Demir,Consumer,Office Supplies,West,Medium,Regular Air,Small Box,61,2,5,2,12,7,0,12,12,12
+4,64.090000,0.020000,3.720000,15.570000,1.390000,0.380000,Dan Campbell,Small Business,Office Supplies,Atlantic,High,Regular Air,Small Box,1,3,8,0,27,8,1,28,27,28
+43,260.590000,0.090000,-157.760000,6.480000,7.030000,0.370000,Nathan Cano,Consumer,Office Supplies,Prarie,High,Regular Air,Small Box,-173,2,6,0,29,1,2,7,29,7
+33,207.920000,0.080000,-124.840000,6.230000,6.970000,0.360000,Robert Marley,Corporate,Office Supplies,Ontario,Not Specified,Express Air,Small Box,1,1,1,4,27,1,5,28,27,28
+22,1559.775500,0.030000,-247.180000,85.990000,0.990000,0.850000,Keith Herrera,Small Business,Technology,Atlantic,Not Specified,Regular Air,Wrap Bag,1,2,6,6,27,6,0,28,27,28
+2,22.070000,0.070000,-15.450000,5.980000,10.390000,0.400000,Nicole Fjeld,Small Business,Office Supplies,Prarie,Low,Regular Air,Small Box,122,2,6,1,8,10,4,8,8,8
+25,92.530000,0.010000,-71.520000,3.570000,4.170000,0.590000,Joy Daniels,Corporate,Office Supplies,Prarie,Low,Regular Air,Small Pack,4,4,12,0,24,12,4,28,24,28
+25,167.230000,0.050000,-43.170000,6.680000,5.410000,0.370000,Jenna Caffey,Consumer,Office Supplies,West,Low,Regular Air,Small Box,123,3,7,1,3,11,5,3,3,3
+50,627.120000,0.080000,100.040000,12.640000,4.980000,0.480000,Laurel Elliston,Corporate,Furniture,Atlantic,High,Regular Air,Small Pack,31,1,3,4,5,4,0,5,5,5
+23,1404.220000,0.100000,202.870000,63.940000,14.480000,0.460000,Julia West,Consumer,Furniture,Northwest Territories,Critical,Regular Air,Small Box,1,4,10,3,15,10,4,16,15,16
+45,15468.216000,0.010000,-969.050000,400.980000,42.520000,0.710000,Jim Sink,Corporate,Furniture,Ontario,Critical,Delivery Truck,Jumbo Box,3,1,1,0,25,1,3,28,25,28
+24,1304.027500,0.100000,34.360000,65.990000,8.990000,0.600000,Lena Creighton,Corporate,Technology,Ontario,Medium,Regular Air,Small Box,0,1,3,0,5,3,0,5,5,5
+18,115.710000,0.080000,-91.610000,6.480000,8.400000,0.370000,Valerie Takahito,Consumer,Office Supplies,Prarie,High,Regular Air,Small Box,0,3,7,6,5,7,6,5,5,5
+4,187.399500,0.080000,-225.300000,55.990000,3.300000,0.590000,Dianna Arnett,Home Office,Technology,Quebec,Low,Regular Air,Small Pack,2,1,3,0,26,3,2,28,26,28
+49,508.380000,0.060000,4.680000,10.400000,5.400000,0.510000,Peter Fuller,Corporate,Furniture,Prarie,Medium,Regular Air,Small Pack,2,1,3,6,21,3,1,23,21,23
+20,112.420000,0.090000,7.400000,5.980000,2.500000,0.360000,Amy Hunt,Home Office,Office Supplies,Prarie,High,Regular Air,Small Box,2,2,4,0,20,4,2,22,20,22
+20,498.680000,0.060000,79.520000,25.980000,5.370000,0.500000,Adam Hart,Corporate,Office Supplies,Yukon,Critical,Regular Air,Medium Box,60,1,2,1,7,4,5,7,7,7
+20,94.860000,0.080000,39.690000,4.910000,0.500000,0.360000,Nicole Brennan,Consumer,Office Supplies,Prarie,High,Regular Air,Small Box,0,3,9,3,10,9,3,10,10,10
+22,83.020000,0.080000,9.240000,3.800000,1.490000,0.380000,Jim Karlsson,Small Business,Office Supplies,West,Low,Regular Air,Small Box,5,2,4,2,13,4,0,18,13,18
+1,11.350000,0.090000,-7.960000,5.780000,5.670000,0.360000,Katherine Murray,Home Office,Office Supplies,Quebec,Not Specified,Regular Air,Small Box,59,1,1,4,9,3,0,9,9,9
+39,173.470000,0.050000,-4.960000,4.630000,1.930000,0.520000,Shui Tom,Consumer,Office Supplies,West,Low,Regular Air,Wrap Bag,2,2,5,0,17,5,2,19,17,19
+6,973.862000,0.100000,-693.330000,205.990000,8.990000,0.560000,Mick Crebagga,Corporate,Technology,Prarie,Low,Regular Air,Small Box,122,2,4,4,3,8,0,3,3,3
+16,597.440000,0.090000,108.300000,38.060000,4.500000,0.560000,Carl Weiss,Consumer,Office Supplies,West,Low,Regular Air,Small Box,4,3,7,6,24,7,3,28,24,28
+4,559.750000,0.070000,-331.080000,122.990000,70.200000,0.740000,Vivek Grady,Corporate,Furniture,Ontario,Medium,Delivery Truck,Jumbo Drum,2,3,7,3,28,7,5,30,28,30
+19,368.040000,0.070000,70.390000,19.980000,5.970000,0.380000,Nicole Hansen,Small Business,Office Supplies,Nunavut,Critical,Express Air,Small Box,-262,3,9,3,29,1,0,10,29,10
+46,100.600000,0.030000,11.550000,2.210000,1.000000,0.380000,Stephanie Ulpright,Consumer,Office Supplies,Ontario,Not Specified,Regular Air,Wrap Bag,28,1,2,0,9,3,0,9,9,9
+31,283.170000,0.000000,119.640000,8.740000,1.390000,0.380000,Harold Engle,Home Office,Office Supplies,Atlantic,High,Regular Air,Small Box,1,2,6,5,18,6,6,19,18,19
+31,143.850000,0.100000,34.140000,4.840000,0.710000,0.520000,Carl Weiss,Consumer,Office Supplies,West,High,Regular Air,Wrap Bag,2,3,7,4,29,7,6,31,29,31
+27,58.640000,0.080000,4.550000,2.210000,1.000000,0.380000,Nora Price,Small Business,Office Supplies,Atlantic,Medium,Regular Air,Wrap Bag,1,4,11,2,24,11,3,25,24,25
+29,852.750000,0.080000,358.730000,30.440000,1.490000,0.370000,Alice McCarthy,Corporate,Office Supplies,West,Low,Regular Air,Small Box,2,4,12,4,30,1,6,1,30,1
+5,83.300000,0.090000,-114.910000,20.990000,2.500000,0.810000,Cari MacIntyre,Corporate,Technology,Ontario,Medium,Regular Air,Wrap Bag,1,1,3,3,24,3,4,25,24,25
+36,146.710000,0.010000,38.630000,4.000000,1.300000,0.370000,Patrick Jones,Home Office,Office Supplies,Atlantic,Critical,Regular Air,Wrap Bag,31,3,7,4,9,8,0,9,9,9
+14,890.900000,0.050000,404.290000,63.940000,14.480000,0.460000,Sally Hughsby,Consumer,Furniture,Ontario,Low,Express Air,Small Box,7,2,6,1,30,7,1,7,30,7
+15,834.904000,0.060000,-11.680000,65.990000,5.260000,0.590000,Jim Radford,Corporate,Technology,Nunavut,Low,Regular Air,Small Box,7,2,4,6,15,4,6,22,15,22
+50,8532.152000,0.040000,-513.790000,212.600000,52.200000,0.640000,Bobby Trafton,Small Business,Furniture,Atlantic,Medium,Delivery Truck,Jumbo Box,3,3,7,3,19,7,6,22,19,22
+20,2227.340000,0.090000,-609.090000,113.640000,35.000000,0.360000,Nat Gilpin,Consumer,Office Supplies,Ontario,Low,Regular Air,Large Box,0,2,6,5,4,6,5,4,4,4
+50,11266.400000,0.080000,1902.990000,243.980000,43.320000,0.550000,James Lanier,Corporate,Furniture,Ontario,Medium,Delivery Truck,Jumbo Drum,30,2,4,6,3,5,1,3,3,3
+27,154.620000,0.040000,-118.600000,5.530000,6.980000,0.390000,Arthur Gainer,Corporate,Office Supplies,Prarie,Medium,Regular Air,Small Box,31,4,10,0,3,11,3,3,3,3
+48,1038.990000,0.000000,-180.450000,19.940000,14.870000,0.570000,John Dryer,Corporate,Furniture,Prarie,Low,Regular Air,Large Box,7,1,1,2,20,1,2,27,20,27
+12,87.110000,0.080000,-43.650000,7.280000,3.520000,0.680000,Jason Fortune,Corporate,Technology,Ontario,Not Specified,Regular Air,Small Pack,2,2,5,4,21,5,6,23,21,23
+6,97.860000,0.040000,-21.090000,14.980000,8.990000,0.390000,Liz Price,Corporate,Furniture,West,Critical,Regular Air,Small Pack,2,2,6,5,16,6,0,18,16,18
+17,454.090000,0.100000,29.700000,28.150000,6.170000,0.550000,Brian Dahlen,Small Business,Office Supplies,Prarie,Critical,Regular Air,Small Pack,30,4,11,1,2,12,3,2,2,2
+12,17274.870000,0.020000,2028.120000,1360.140000,14.700000,0.590000,Brendan Sweed,Consumer,Technology,West,Critical,Delivery Truck,Jumbo Drum,2,4,12,6,20,12,1,22,20,22
+39,11613.130000,0.050000,2816.210000,294.620000,42.520000,0.570000,James Lanier,Corporate,Office Supplies,Ontario,High,Delivery Truck,Jumbo Drum,0,1,2,4,27,2,4,27,27,27
+47,181.780000,0.020000,71.560000,3.780000,0.710000,0.390000,Charlotte Melton,Home Office,Office Supplies,Northwest Territories,Medium,Regular Air,Wrap Bag,1,4,11,6,29,11,0,30,29,30
+49,848.920000,0.040000,296.060000,17.480000,1.990000,0.450000,Erin Creighton,Corporate,Technology,Ontario,Medium,Regular Air,Small Pack,2,4,11,2,25,11,4,27,25,27
+32,180.360000,0.100000,-111.800000,5.980000,4.690000,0.680000,Jessica Myrick,Small Business,Office Supplies,Ontario,High,Regular Air,Small Box,31,1,1,3,1,2,6,1,1,1
+23,1661.040000,0.040000,475.540000,70.970000,3.500000,0.590000,Valerie Dominguez,Corporate,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,0,2,6,5,19,6,5,19,19,19
+22,106.690000,0.010000,-76.600000,4.540000,5.830000,0.360000,Pete Kriz,Corporate,Office Supplies,Yukon,Critical,Regular Air,Small Box,31,1,3,0,8,4,3,8,8,8
+21,141.200000,0.050000,-74.440000,6.230000,6.970000,0.360000,Barry Weirich,Corporate,Office Supplies,West,Not Specified,Regular Air,Small Box,61,1,3,5,3,5,3,3,3,3
+15,1556.550000,0.040000,436.020000,105.340000,24.490000,0.610000,David Kendrick,Home Office,Furniture,Yukon,Low,Regular Air,Large Box,0,4,11,5,20,11,5,20,20,20
+50,329.910000,0.040000,-279.930000,6.480000,9.540000,0.370000,Noel Staavos,Home Office,Office Supplies,Atlantic,Not Specified,Regular Air,Small Box,2,2,6,0,15,6,2,17,15,17
+8,180.790000,0.050000,20.090000,22.840000,5.470000,0.390000,Steve Chapman,Corporate,Office Supplies,Prarie,Medium,Regular Air,Small Box,31,1,1,6,3,2,2,3,3,3
+8,775.740000,0.020000,-215.390000,89.990000,42.000000,0.660000,Neil French,Consumer,Furniture,Prarie,Critical,Delivery Truck,Jumbo Drum,-146,4,11,6,6,6,0,13,6,13
+43,170.810000,0.100000,-133.680000,4.280000,5.170000,0.400000,Luke Weiss,Corporate,Office Supplies,West,Low,Regular Air,Small Box,214,2,5,6,6,12,3,6,6,6
+25,268.580000,0.030000,-26.330000,10.890000,4.500000,0.590000,Tamara Willingham,Corporate,Office Supplies,Yukon,High,Regular Air,Small Box,0,4,11,5,12,11,5,12,12,12
+17,127.450000,0.060000,-42.170000,7.100000,6.050000,0.390000,Vivek Grady,Home Office,Office Supplies,Ontario,Medium,Regular Air,Small Box,-292,4,12,2,2,2,4,13,2,13
+20,466.360000,0.070000,-192.700000,23.990000,15.680000,0.620000,Russell D'Ascenzo,Consumer,Furniture,Prarie,Critical,Delivery Truck,Jumbo Drum,1,3,7,0,23,7,1,24,23,24
+42,48.410000,0.060000,-1.460000,1.140000,0.700000,0.380000,Darrin Sayre,Consumer,Office Supplies,Yukon,Not Specified,Regular Air,Wrap Bag,2,4,12,5,18,12,0,20,18,20
+34,598.190000,0.090000,-6.610000,17.980000,8.510000,0.400000,Bruce Degenhardt,Home Office,Technology,Yukon,High,Regular Air,Medium Box,2,2,5,0,25,5,2,27,25,27
+21,7841.570000,0.050000,2347.180000,363.250000,19.990000,0.570000,Tracy Collins,Corporate,Office Supplies,Prarie,Critical,Express Air,Small Box,0,2,4,1,21,4,1,21,21,21
+48,3005.740000,0.020000,1053.210000,59.980000,3.990000,0.570000,Alan Hwang,Corporate,Office Supplies,Ontario,Low,Express Air,Small Box,213,1,2,6,5,9,2,5,5,5
+9,55.490000,0.050000,7.230000,6.080000,0.910000,0.510000,Toby Carlisle,Home Office,Office Supplies,Quebec,Low,Regular Air,Wrap Bag,2,3,7,6,29,7,1,31,29,31
+26,13905.880000,0.050000,6441.180000,574.740000,24.490000,0.370000,Ed Braxton,Consumer,Technology,Yukon,Critical,Regular Air,Large Box,31,3,7,0,11,8,3,11,11,11
+36,233.430000,0.030000,-71.900000,6.280000,5.360000,0.400000,Joni Blumstein,Home Office,Office Supplies,Ontario,Not Specified,Regular Air,Small Box,0,4,11,2,7,11,2,7,7,7
+23,220.970000,0.020000,-25.860000,9.480000,7.290000,0.450000,Clytie Kelty,Small Business,Furniture,Ontario,Low,Regular Air,Small Pack,122,2,4,5,9,8,1,9,9,9
+33,311.190000,0.030000,-9.180000,9.380000,4.930000,0.570000,Alejandro Grove,Corporate,Furniture,Ontario,Not Specified,Regular Air,Small Box,60,1,1,0,9,3,4,9,9,9
+15,611.680000,0.050000,134.750000,39.060000,10.550000,0.370000,Patrick O'Donnell,Home Office,Office Supplies,Ontario,Critical,Regular Air,Small Box,61,3,9,3,2,11,1,2,2,2
+41,417.530000,0.020000,-309.060000,9.980000,12.520000,0.570000,Tony Sayre,Home Office,Furniture,Atlantic,Medium,Regular Air,Small Box,31,1,3,1,8,4,4,8,8,8
+36,147.710000,0.050000,40.040000,3.980000,0.700000,0.520000,Thea Hudgings,Consumer,Office Supplies,Prarie,Low,Regular Air,Wrap Bag,4,1,1,2,21,1,6,25,21,25
+30,4587.926000,0.100000,687.410000,195.990000,4.200000,0.600000,Arthur Wiediger,Corporate,Technology,Ontario,Not Specified,Regular Air,Small Box,92,2,5,2,9,8,3,9,9,9
+3,46.460000,0.100000,-25.130000,14.420000,6.750000,0.520000,Craig Carroll,Corporate,Office Supplies,Ontario,Not Specified,Regular Air,Medium Box,3,2,6,4,19,6,0,22,19,22
+1,35.140000,0.020000,-12.750000,29.170000,6.270000,0.370000,Edward Nazzal,Home Office,Office Supplies,Ontario,Medium,Regular Air,Small Box,1,1,1,4,22,1,5,23,22,23
+4,268.710500,0.090000,-337.660000,85.990000,0.990000,0.550000,Trudy Bell,Consumer,Technology,West,High,Regular Air,Wrap Bag,2,2,6,1,22,6,3,24,22,24
+42,3900.531000,0.080000,1144.630000,110.990000,2.500000,0.570000,Erin Creighton,Corporate,Technology,Ontario,Critical,Regular Air,Small Box,31,3,7,5,2,8,1,2,2,2
+29,3636.910000,0.000000,-1284.240000,122.990000,70.200000,0.740000,Bill Eplett,Corporate,Furniture,West,Low,Delivery Truck,Jumbo Drum,0,3,9,5,11,9,5,11,11,11
+46,298.970000,0.090000,-225.860000,6.480000,8.730000,0.370000,Maribeth Schnelling,Corporate,Office Supplies,Atlantic,Low,Regular Air,Small Box,61,2,6,0,1,8,5,1,1,1
+23,202.840000,0.050000,-19.480000,8.850000,5.600000,0.360000,Dionis Lloyd,Small Business,Office Supplies,Quebec,Not Specified,Regular Air,Small Box,31,3,8,2,1,9,5,1,1,1
+4,757.110000,0.070000,-224.350000,180.980000,30.000000,0.690000,Hallie Redmond,Small Business,Furniture,Ontario,Not Specified,Delivery Truck,Jumbo Drum,1,2,6,4,29,6,5,30,29,30
+35,203.350000,0.080000,-1605.730000,4.480000,49.000000,0.600000,Jay Fine,Consumer,Office Supplies,West,High,Regular Air,Large Box,-176,4,11,3,5,5,2,13,5,13
+44,486.630000,0.030000,-146.370000,10.900000,7.460000,0.590000,Jack O'Briant,Home Office,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,3,2,4,2,18,4,5,21,18,21
+12,61.090000,0.040000,24.060000,4.910000,0.500000,0.360000,Don Miller,Home Office,Office Supplies,Northwest Territories,Medium,Regular Air,Small Box,0,4,11,5,14,11,5,14,14,14
+11,38.240000,0.020000,-37.550000,2.880000,5.330000,0.360000,Keith Herrera,Small Business,Office Supplies,Atlantic,High,Regular Air,Small Box,1,2,6,0,21,6,1,22,21,22
+42,939.770000,0.000000,9.720000,20.970000,4.000000,0.770000,Jim Karlsson,Small Business,Technology,West,High,Express Air,Small Box,3,4,10,4,26,10,0,29,26,29
+44,444.520000,0.020000,161.130000,10.060000,2.060000,0.390000,Joy Smith,Consumer,Office Supplies,Atlantic,Low,Regular Air,Wrap Bag,153,1,3,5,7,8,4,7,7,7
+44,4509.377500,0.010000,1426.260000,115.990000,5.260000,0.570000,Art Foster,Home Office,Technology,West,High,Regular Air,Small Box,62,3,7,1,10,9,0,10,10,10
+43,856.450000,0.030000,265.100000,19.840000,4.100000,0.440000,Arthur Prichep,Home Office,Office Supplies,Ontario,Medium,Regular Air,Wrap Bag,0,1,2,1,9,2,1,9,9,9
+50,330.270000,0.070000,-195.570000,6.480000,7.860000,0.370000,Susan Pistek,Home Office,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,61,3,9,0,12,11,5,12,12,12
+14,125.310000,0.000000,26.240000,7.960000,4.950000,0.410000,Ed Ludwig,Consumer,Furniture,Ontario,High,Regular Air,Small Box,2,2,6,6,27,6,1,29,27,29
+16,68.040000,0.070000,-55.520000,3.980000,5.260000,0.380000,Pamela Stobb,Consumer,Office Supplies,Quebec,Not Specified,Regular Air,Small Box,61,3,8,0,10,10,5,10,10,10
+24,170.700000,0.000000,-37.880000,6.480000,2.740000,0.710000,Cynthia Voltz,Corporate,Technology,Yukon,High,Regular Air,Small Pack,61,2,6,6,3,8,4,3,3,3
+45,260.370000,0.020000,44.150000,5.580000,1.990000,0.460000,Lisa DeCherney,Consumer,Office Supplies,Ontario,Not Specified,Regular Air,Wrap Bag,14,4,12,3,30,1,3,13,30,13
+4,2206.170000,0.020000,251.430000,525.980000,19.990000,0.370000,Theresa Swint,Consumer,Office Supplies,Prarie,Critical,Regular Air,Small Box,61,1,3,5,5,5,3,5,5,5
+33,126.380000,0.080000,26.640000,4.000000,1.300000,0.370000,Pauline Chand,Small Business,Office Supplies,Ontario,Not Specified,Regular Air,Wrap Bag,2,1,1,5,16,1,0,18,16,18
+8,55.590000,0.030000,-17.950000,5.180000,5.740000,0.360000,Roland Black,Small Business,Office Supplies,Prarie,Medium,Express Air,Small Box,31,4,10,6,7,11,2,7,7,7
+46,605.970000,0.070000,-22.720000,13.730000,6.850000,0.540000,Jim Kriz,Consumer,Furniture,Ontario,Medium,Regular Air,Wrap Bag,1,3,9,6,20,9,0,21,20,21
+20,4531.340000,0.080000,653.680000,297.640000,14.700000,0.570000,Bradley Drucker,Small Business,Technology,Atlantic,Not Specified,Delivery Truck,Jumbo Drum,0,4,11,6,1,11,6,1,1,1
+27,3390.510000,0.050000,1169.710000,122.990000,19.990000,0.370000,Shaun Chance,Corporate,Office Supplies,West,Critical,Express Air,Small Box,92,3,8,2,12,11,3,12,12,12
+39,282.070000,0.030000,140.010000,7.310000,0.490000,0.380000,Alan Barnes,Corporate,Office Supplies,Nunavut,High,Regular Air,Small Box,31,4,10,0,10,11,3,10,10,10
+40,1384.340000,0.100000,562.310000,37.700000,2.990000,0.350000,Lisa Hazard,Home Office,Office Supplies,West,High,Regular Air,Small Box,61,2,4,2,7,6,0,7,7,7
+23,356.090000,0.050000,155.820000,15.670000,1.390000,0.380000,Amy Hunt,Home Office,Office Supplies,Prarie,Low,Regular Air,Small Box,0,2,5,5,14,5,5,14,14,14
+40,1567.510000,0.010000,711.740000,37.940000,5.080000,0.380000,Kelly Lampkin,Corporate,Office Supplies,Ontario,Critical,Express Air,Wrap Bag,92,2,5,5,8,8,6,8,8,8
+35,1133.960000,0.020000,185.090000,31.740000,12.620000,0.370000,Tamara Manning,Corporate,Office Supplies,West,Not Specified,Regular Air,Small Box,1,1,3,5,20,3,6,21,20,21
+40,7789.630000,0.080000,1774.530000,200.980000,23.760000,0.580000,Becky Pak,Corporate,Furniture,West,Not Specified,Delivery Truck,Jumbo Drum,59,1,2,3,10,4,6,10,10,10
+23,1256.290000,0.040000,517.030000,55.480000,6.790000,0.370000,John Lucas,Corporate,Office Supplies,Ontario,High,Regular Air,Small Box,2,3,8,5,22,8,0,24,22,24
+35,3491.710000,0.040000,-1216.640000,95.950000,74.350000,0.570000,Maureen Gastineau,Consumer,Furniture,Yukon,Medium,Delivery Truck,Jumbo Drum,61,2,4,5,3,6,3,3,3,3
+44,276.000000,0.080000,-98.530000,6.480000,5.820000,0.370000,Sean O'Donnell,Corporate,Office Supplies,Ontario,Low,Regular Air,Small Box,-232,4,11,0,30,4,6,12,30,12
+14,2232.060000,0.030000,542.160000,155.060000,7.070000,0.590000,Ralph Arnett,Consumer,Office Supplies,Northwest Territories,High,Regular Air,Small Box,2,4,12,1,28,12,3,30,28,30
+38,2315.110000,0.060000,532.210000,59.760000,9.710000,0.570000,Michelle Tran,Consumer,Office Supplies,Quebec,Critical,Regular Air,Small Box,3,4,12,6,20,12,2,23,20,23
+31,146.510000,0.040000,37.140000,4.730000,1.520000,0.360000,Patrick Ryan,Corporate,Office Supplies,Prarie,Low,Regular Air,Wrap Bag,0,4,10,1,23,10,1,23,23,23
+50,4550.060000,0.100000,-1335.320000,95.980000,58.200000,0.580000,Janet Martin,Corporate,Furniture,Yukon,Not Specified,Delivery Truck,Jumbo Drum,-263,4,11,4,2,2,0,13,2,13
+2,29.320000,0.080000,-12.930000,7.280000,11.150000,0.370000,Thais Sissman,Small Business,Office Supplies,Prarie,Critical,Express Air,Small Box,1,2,4,0,13,4,1,14,13,14
+39,132.790000,0.050000,-100.240000,3.280000,3.970000,0.560000,Mike Pelletier,Corporate,Office Supplies,West,High,Regular Air,Wrap Bag,31,2,5,5,9,6,1,9,9,9
+12,3534.560000,0.030000,763.320000,300.650000,24.490000,0.520000,Mick Crebagga,Home Office,Office Supplies,Prarie,Low,Regular Air,Large Box,61,4,10,4,12,12,2,12,12,12
+24,41.850000,0.040000,-8.440000,1.600000,1.290000,0.420000,Charles Crestani,Consumer,Office Supplies,West,High,Express Air,Wrap Bag,61,1,3,5,5,5,3,5,5,5
+40,323.630000,0.050000,-205.490000,8.040000,8.940000,0.400000,Greg Matthias,Home Office,Office Supplies,West,Not Specified,Regular Air,Small Box,2,2,6,5,20,6,0,22,20,22
+8,104.270000,0.030000,-23.610000,11.970000,5.810000,0.600000,Philip Brown,Corporate,Office Supplies,Ontario,Medium,Regular Air,Small Pack,0,4,12,3,9,12,3,9,9,9
+14,74.020000,0.020000,-2.910000,5.080000,3.630000,0.510000,Tonja Turnell,Consumer,Furniture,West,Low,Regular Air,Wrap Bag,2,2,5,6,23,5,1,25,23,25
+24,1811.550000,0.090000,512.690000,81.320000,0.990000,0.570000,Barry Blumstein,Small Business,Office Supplies,West,High,Regular Air,Small Box,31,3,8,5,6,9,1,6,6,6
+25,536.210000,0.090000,106.980000,22.720000,8.990000,0.440000,Randy Ferguson,Corporate,Furniture,Prarie,Not Specified,Regular Air,Small Pack,1,2,5,2,23,5,3,24,23,24
+36,163.540000,0.030000,-95.060000,4.130000,5.040000,0.380000,Jessica Myrick,Small Business,Office Supplies,West,High,Express Air,Small Box,1,2,4,5,28,4,6,29,28,29
+20,129.270000,0.070000,-105.150000,6.480000,8.740000,0.360000,Dave Kipp,Consumer,Office Supplies,West,Critical,Regular Air,Small Box,28,1,2,0,7,3,0,7,7,7
+39,209.330000,0.010000,-160.710000,4.980000,7.440000,0.360000,Michael Moore,Corporate,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,2,4,12,4,30,1,6,1,30,1
+20,596.560000,0.040000,60.700000,29.990000,5.500000,0.510000,Vivek Grady,Corporate,Technology,Ontario,High,Express Air,Small Box,0,3,9,2,28,9,2,28,28,28
+24,161.870000,0.040000,-31.270000,6.480000,5.110000,0.370000,Penelope Sewall,Home Office,Office Supplies,Prarie,Critical,Regular Air,Small Box,2,3,9,1,18,9,3,20,18,20
+48,1055.980000,0.070000,204.580000,21.780000,5.940000,0.500000,Ashley Jarboe,Home Office,Office Supplies,Yukon,Critical,Regular Air,Medium Box,0,2,4,2,18,4,2,18,18,18
+31,3969.430000,0.100000,-796.510000,140.980000,36.090000,0.770000,Tim Brockman,Consumer,Furniture,West,High,Delivery Truck,Jumbo Box,2,4,10,0,25,10,2,27,25,27
+44,365.240000,0.090000,-163.130000,8.740000,8.290000,0.380000,Edward Nazzal,Home Office,Office Supplies,Ontario,High,Regular Air,Small Box,1,2,6,3,16,6,4,17,16,17
+37,252.990000,0.080000,28.760000,7.080000,2.350000,0.470000,Maria Bertelson,Home Office,Office Supplies,Prarie,Not Specified,Regular Air,Wrap Bag,2,3,8,5,20,8,0,22,20,22
+48,128.000000,0.090000,45.510000,2.890000,0.500000,0.380000,Christina DeMoss,Home Office,Office Supplies,West,Medium,Regular Air,Small Box,2,3,9,6,20,9,1,22,20,22
+21,756.600000,0.000000,299.590000,35.440000,4.920000,0.380000,Chad Cunningham,Small Business,Office Supplies,Northwest Territories,Not Specified,Regular Air,Small Box,30,2,6,2,2,7,4,2,2,2
+39,723.307500,0.010000,216.700000,20.990000,0.990000,0.570000,Trudy Bell,Consumer,Technology,Yukon,Low,Regular Air,Wrap Bag,123,3,7,6,4,11,3,4,4,4
+49,1488.660000,0.000000,385.370000,29.340000,7.870000,0.540000,Mick Brown,Consumer,Furniture,West,Medium,Regular Air,Small Box,2,3,9,1,15,9,3,17,15,17
+44,4462.230000,0.040000,440.720000,100.980000,26.220000,0.600000,Sylvia Foulston,Home Office,Furniture,Nunavut,Critical,Delivery Truck,Jumbo Box,2,1,2,1,14,2,3,16,14,16
+41,708.830000,0.080000,35.080000,17.670000,8.990000,0.470000,Fred Harton,Home Office,Furniture,West,High,Regular Air,Small Pack,30,4,11,4,4,12,6,4,4,4
+19,88.610000,0.010000,21.470000,3.800000,1.490000,0.380000,Elpida Rittenbach,Consumer,Office Supplies,Atlantic,Critical,Express Air,Small Box,61,3,8,6,1,10,4,1,1,1
+46,611.160000,0.040000,100.220000,12.950000,4.980000,0.400000,Yana Sorensen,Corporate,Office Supplies,Atlantic,Medium,Regular Air,Small Box,2,3,8,0,20,8,2,22,20,22
+22,45.210000,0.020000,4.610000,1.760000,0.700000,0.560000,Brad Thomas,Home Office,Office Supplies,Yukon,Medium,Express Air,Wrap Bag,1,4,12,3,27,12,4,28,27,28
+22,621.210000,0.070000,-42.350000,29.740000,6.640000,0.700000,Dorris Love,Home Office,Office Supplies,Quebec,High,Regular Air,Small Box,31,2,5,4,11,6,0,11,11,11
+42,670.650000,0.080000,41.660000,15.940000,5.450000,0.550000,Carl Weiss,Consumer,Office Supplies,Prarie,Critical,Regular Air,Small Pack,1,1,3,5,13,3,6,14,13,14
+46,1736.530000,0.100000,457.030000,39.480000,3.990000,0.560000,Aimee Bixby,Home Office,Office Supplies,Ontario,Medium,Regular Air,Small Box,2,1,2,3,24,2,5,26,24,26
+12,351.120000,0.090000,202.630000,30.930000,3.920000,0.440000,Speros Goranitis,Corporate,Furniture,West,High,Express Air,Small Pack,30,2,6,3,2,7,5,2,2,2
+47,838.400000,0.020000,-132.910000,17.700000,9.470000,0.590000,Michael Grace,Corporate,Office Supplies,Prarie,Medium,Express Air,Small Box,2,3,9,6,13,9,1,15,13,15
+35,897.420000,0.080000,127.170000,26.640000,5.300000,0.240000,Art Foster,Home Office,Furniture,Ontario,High,Regular Air,Medium Box,31,3,7,5,10,8,1,10,10,10
+41,322.030000,0.060000,-82.830000,8.120000,2.830000,0.770000,Christopher Schild,Corporate,Technology,Atlantic,Medium,Regular Air,Small Pack,1,1,3,4,27,3,5,28,27,28
+38,123.260000,0.020000,-4.730000,3.260000,1.860000,0.410000,Raymond Fair,Small Business,Office Supplies,Atlantic,High,Regular Air,Wrap Bag,2,3,7,6,29,7,1,31,29,31
+42,1876.090000,0.020000,809.740000,43.410000,2.990000,0.390000,Phillip Flathmann,Small Business,Office Supplies,Prarie,Medium,Regular Air,Small Box,-235,4,11,5,3,3,1,13,3,13
+3,14.840000,0.080000,-2.420000,4.980000,0.490000,0.390000,Maya Herman,Corporate,Office Supplies,Prarie,High,Regular Air,Small Box,1,4,10,2,21,10,3,22,21,22
+44,4357.117000,0.070000,1192.980000,115.990000,5.920000,0.580000,Brad Thomas,Home Office,Technology,Yukon,Critical,Regular Air,Small Box,0,3,7,2,7,7,2,7,7,7
+48,1347.630000,0.070000,562.890000,28.480000,1.990000,0.400000,Robert Dilbeck,Corporate,Technology,Prarie,Not Specified,Regular Air,Small Pack,61,3,8,5,6,10,3,6,6,6
+15,144.140000,0.050000,12.090000,9.780000,1.990000,0.430000,Robert Barroso,Small Business,Technology,Atlantic,Low,Regular Air,Small Pack,5,3,7,4,16,7,2,21,16,21
+32,1116.030000,0.040000,203.440000,34.760000,5.490000,0.600000,Corey Roper,Small Business,Office Supplies,Yukon,High,Regular Air,Small Box,1,2,4,2,29,4,3,30,29,30
+23,3982.210000,0.030000,1413.940000,165.980000,19.990000,0.400000,Andrew Allen,Corporate,Office Supplies,West,Low,Regular Air,Small Box,151,1,2,3,2,7,0,2,2,2
+14,132.720000,0.050000,-9.180000,8.850000,5.600000,0.360000,Nat Gilpin,Consumer,Office Supplies,Ontario,Not Specified,Regular Air,Small Box,31,4,10,1,6,11,4,6,6,6
+9,373.480000,0.100000,112.060000,40.980000,2.990000,0.360000,Tracy Poddar,Corporate,Office Supplies,Quebec,Critical,Express Air,Small Box,1,3,9,6,26,9,0,27,26,27
+41,1204.084500,0.040000,341.960000,35.990000,1.100000,0.550000,Lauren Leatherbury,Corporate,Technology,West,Medium,Regular Air,Small Box,-85,1,3,2,30,1,1,4,30,4
+17,285.840000,0.020000,-27.260000,15.280000,10.910000,0.360000,Harold Engle,Home Office,Office Supplies,Atlantic,High,Regular Air,Small Box,2,4,10,1,26,10,3,28,26,28
+20,1564.161500,0.000000,682.480000,85.990000,2.500000,0.350000,Valerie Mitchum,Home Office,Technology,Quebec,Medium,Regular Air,Small Box,61,1,3,1,1,5,6,1,1,1
+40,273.140000,0.020000,-96.900000,6.600000,4.070000,0.660000,Darrin Van Huff,Home Office,Technology,Prarie,Medium,Regular Air,Small Pack,2,3,7,6,29,7,1,31,29,31
+31,16066.850000,0.070000,7416.430000,574.740000,24.490000,0.370000,Rick Reed,Consumer,Technology,Northwest Territories,Low,Regular Air,Large Box,62,1,1,4,30,4,3,2,30,2
+36,18092.660000,0.090000,7917.760000,525.980000,19.990000,0.370000,Alejandro Grove,Consumer,Office Supplies,Ontario,Not Specified,Regular Air,Small Box,2,2,4,6,19,4,1,21,19,21
+3,56.695000,0.010000,-70.970000,20.990000,0.990000,0.370000,Cindy Schnelling,Corporate,Technology,Northwest Territories,Medium,Regular Air,Wrap Bag,2,2,4,4,27,4,6,29,27,29
+48,10462.540000,0.020000,-1402.680000,218.750000,69.640000,0.770000,Frank Hawley,Home Office,Furniture,West,Medium,Delivery Truck,Jumbo Box,0,1,3,5,20,3,5,20,20,20
+31,203.530000,0.060000,-101.280000,6.680000,6.930000,0.370000,Maxwell Schwartz,Corporate,Office Supplies,Prarie,High,Regular Air,Small Box,1,4,12,5,12,12,6,13,12,13
+37,158.620000,0.050000,-104.570000,4.280000,5.170000,0.400000,Debra Catini,Small Business,Office Supplies,West,High,Regular Air,Small Box,0,1,2,3,19,2,3,19,19,19
+50,1507.160000,0.020000,724.140000,28.480000,1.990000,0.400000,Darren Budd,Corporate,Technology,Ontario,Medium,Regular Air,Small Pack,2,1,3,3,29,3,5,31,29,31
+37,230.970000,0.080000,-173.730000,6.480000,8.190000,0.370000,Saphhira Shifley,Corporate,Office Supplies,Prarie,Medium,Regular Air,Small Box,30,3,9,0,10,10,2,10,10,10
+30,203.480000,0.040000,-71.910000,6.480000,6.350000,0.370000,Vivian Mathis,Home Office,Office Supplies,Quebec,Critical,Express Air,Small Box,2,2,6,5,19,6,0,21,19,21
+33,1422.310000,0.020000,498.150000,43.980000,1.990000,0.440000,Sally Hughsby,Consumer,Technology,Ontario,Low,Regular Air,Small Pack,4,3,7,1,21,7,5,25,21,25
+6,127.490000,0.080000,-57.950000,19.980000,4.000000,0.680000,Thais Sissman,Corporate,Technology,Prarie,Not Specified,Express Air,Small Box,0,4,11,3,3,11,3,3,3,3
+42,372.690000,0.010000,-177.030000,8.040000,8.940000,0.400000,Rob Beeghly,Consumer,Office Supplies,Ontario,Low,Express Air,Small Box,7,3,7,5,24,7,5,31,24,31
+16,60.760000,0.030000,5.250000,3.700000,1.610000,0.440000,Khloe Miller,Corporate,Furniture,West,Critical,Regular Air,Wrap Bag,2,3,7,2,21,7,4,23,21,23
+34,1315.740000,0.030000,260.870000,36.550000,13.890000,0.410000,Brad Thomas,Home Office,Office Supplies,Yukon,Medium,Regular Air,Wrap Bag,2,4,12,0,27,12,2,29,27,29
+7,55.810000,0.030000,-35.040000,6.480000,8.730000,0.370000,Neil Ducich,Home Office,Office Supplies,West,High,Regular Air,Small Box,61,1,3,5,7,5,3,7,7,7
+3,2421.020000,0.070000,-1943.170000,810.980000,16.060000,0.560000,Ed Braxton,Home Office,Technology,Yukon,High,Delivery Truck,Jumbo Drum,30,2,4,2,11,5,4,11,11,11
+42,8549.040000,0.030000,2861.010000,194.300000,11.540000,0.590000,Vicky Freymann,Home Office,Furniture,West,Critical,Regular Air,Large Box,2,1,2,4,13,2,6,15,13,15
+22,245.960000,0.030000,-33.820000,11.290000,5.030000,0.590000,Gene Hale,Consumer,Office Supplies,West,Not Specified,Regular Air,Small Box,31,1,1,6,10,2,2,10,10,10
+2,291.660000,0.080000,-192.920000,136.980000,24.490000,0.590000,Cari Schnelling,Home Office,Furniture,Northwest Territories,High,Regular Air,Large Box,2,4,12,4,24,12,6,26,24,26
+37,99.650000,0.010000,27.000000,2.620000,0.800000,0.390000,Arthur Gainer,Consumer,Office Supplies,Prarie,High,Regular Air,Wrap Bag,3,4,11,2,17,11,5,20,17,20
+6,101.520000,0.020000,-16.370000,15.420000,5.410000,0.590000,Tamara Chand,Consumer,Office Supplies,Ontario,Medium,Regular Air,Small Box,1,1,3,1,24,3,2,25,24,25
+19,61.020000,0.000000,-71.040000,2.840000,5.440000,0.360000,Raymond Book,Consumer,Office Supplies,West,Medium,Regular Air,Small Box,61,1,3,5,6,5,3,6,6,6
+32,1929.190000,0.040000,570.670000,60.970000,4.500000,0.560000,Mitch Willingham,Corporate,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,1,3,9,2,23,9,3,24,23,24
+47,2926.330000,0.090000,499.270000,67.280000,19.990000,0.400000,Dave Hallsten,Corporate,Office Supplies,Quebec,Low,Regular Air,Small Box,5,2,6,5,25,6,3,30,25,30
+40,115.510000,0.000000,5.540000,2.780000,0.970000,0.590000,Nora Price,Home Office,Office Supplies,Quebec,High,Regular Air,Wrap Bag,61,1,3,3,10,5,1,10,10,10
+37,1697.440000,0.060000,523.430000,45.190000,1.990000,0.550000,Joy Smith,Corporate,Technology,Atlantic,Critical,Regular Air,Small Pack,90,1,1,4,2,4,3,2,2,2
+50,1298.810000,0.040000,-250.550000,25.980000,14.360000,0.600000,Jeremy Ellison,Small Business,Furniture,Ontario,Critical,Delivery Truck,Jumbo Drum,2,4,10,0,29,10,2,31,29,31
+42,1392.770000,0.000000,-1981.550000,31.760000,45.510000,0.650000,Anne Pryor,Corporate,Furniture,Quebec,Critical,Delivery Truck,Jumbo Box,2,3,7,2,18,7,4,20,18,20
+15,297.050000,0.090000,-16.890000,20.480000,6.320000,0.580000,Kristina Nunn,Consumer,Office Supplies,West,Medium,Regular Air,Small Box,1,2,5,2,20,5,3,21,20,21
+46,507.640000,0.040000,42.760000,10.980000,3.370000,0.570000,Julie Creighton,Corporate,Office Supplies,West,High,Regular Air,Small Pack,1,1,3,4,19,3,5,20,19,20
+25,170.400000,0.020000,-153.750000,6.480000,10.050000,0.370000,Jill Fjeld,Home Office,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,-294,4,10,2,31,1,2,11,31,11
+20,138.520000,0.030000,-895.240000,4.480000,49.000000,0.600000,Khloe Miller,Home Office,Office Supplies,West,Medium,Regular Air,Large Box,31,3,8,3,4,9,6,4,4,4
+3,2222.610000,0.020000,196.080000,699.990000,24.490000,0.410000,Lycoris Saunders,Home Office,Technology,Ontario,Low,Regular Air,Large Box,7,2,6,1,14,6,1,21,14,21
+9,19.200000,0.100000,-6.840000,2.210000,1.120000,0.580000,Shaun Chance,Corporate,Office Supplies,West,High,Regular Air,Wrap Bag,-56,1,2,0,28,1,0,3,28,3
+38,6230.680000,0.090000,835.460000,217.850000,29.100000,0.680000,Pauline Webber,Consumer,Furniture,West,Critical,Delivery Truck,Jumbo Box,62,3,7,6,3,9,5,3,3,3
+8,84.640000,0.000000,-9.290000,8.620000,4.500000,0.590000,Fred McMath,Small Business,Office Supplies,Quebec,Low,Express Air,Small Box,7,3,7,4,15,7,4,22,15,22
+31,906.015000,0.050000,248.670000,35.990000,5.990000,0.380000,Pete Takahito,Corporate,Technology,Ontario,Critical,Regular Air,Wrap Bag,30,2,4,5,11,5,0,11,11,11
+17,518.800000,0.100000,54.630000,30.980000,11.630000,0.370000,Ken Lonsdale,Consumer,Office Supplies,Prarie,Critical,Regular Air,Small Box,1,3,8,3,30,8,4,31,30,31
+13,473.460000,0.030000,128.110000,35.940000,6.660000,0.400000,Grant Thornton,Corporate,Office Supplies,West,High,Regular Air,Small Box,1,1,1,3,14,1,4,15,14,15
+47,1857.880000,0.090000,752.960000,40.980000,1.990000,0.440000,Pete Takahito,Corporate,Technology,Ontario,Low,Regular Air,Small Pack,35,4,10,3,11,11,3,15,11,15
+32,85.490000,0.080000,5.720000,2.880000,0.700000,0.560000,Neil Ducich,Home Office,Office Supplies,West,Low,Regular Air,Wrap Bag,5,3,9,4,17,9,2,22,17,22
+37,2638.790000,0.100000,54.230000,70.890000,89.300000,0.690000,Barry Gonzalez,Small Business,Furniture,Quebec,Medium,Delivery Truck,Jumbo Box,0,4,12,0,19,12,0,19,19,19
+25,158.830000,0.000000,-56.970000,5.770000,5.920000,0.550000,Mick Hernandez,Home Office,Furniture,Ontario,High,Regular Air,Medium Box,-28,4,11,1,10,10,1,13,10,13
+20,525.780000,0.030000,180.640000,26.480000,6.930000,0.490000,Vivian Mathis,Home Office,Furniture,Quebec,Medium,Regular Air,Small Box,30,2,6,6,7,7,1,7,7,7
+36,1561.220500,0.090000,-226.820000,55.990000,2.500000,0.830000,Beth Fritzler,Small Business,Technology,Prarie,High,Regular Air,Small Pack,-235,4,11,2,3,3,5,13,3,13
+10,2665.640000,0.100000,-107.490000,280.980000,35.670000,0.660000,Art Foster,Home Office,Furniture,West,Medium,Delivery Truck,Jumbo Box,31,4,10,0,12,11,3,12,12,12
+17,283.653500,0.090000,-113.050000,20.990000,2.500000,0.810000,Lindsay Williams,Corporate,Technology,Prarie,Low,Regular Air,Wrap Bag,-168,2,6,2,24,1,2,7,24,7
+4,292.340500,0.010000,-420.590000,85.990000,0.990000,0.850000,Patrick Ryan,Corporate,Technology,Prarie,Low,Regular Air,Wrap Bag,-83,4,12,2,9,9,3,17,9,17
+44,479.960000,0.080000,122.540000,10.910000,2.990000,0.380000,Denise Monton,Home Office,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,31,2,5,6,3,6,2,3,3,3
+18,55.350000,0.000000,-56.630000,2.220000,5.000000,0.550000,George Bell,Corporate,Office Supplies,Ontario,Low,Express Air,Small Box,4,2,6,0,14,6,4,18,14,18
+24,265.350000,0.020000,-128.690000,9.990000,11.590000,0.400000,Khloe Miller,Home Office,Office Supplies,West,Low,Regular Air,Small Box,9,4,10,6,18,10,1,27,18,27
+8,121.740000,0.010000,21.000000,14.280000,2.990000,0.390000,John Castell,Consumer,Office Supplies,Ontario,Not Specified,Regular Air,Small Box,1,3,7,1,21,7,2,22,21,22
+33,207.010000,0.010000,-36.900000,5.780000,4.960000,0.360000,Katherine Nockton,Corporate,Office Supplies,Ontario,High,Regular Air,Small Box,30,3,9,5,11,10,0,11,11,11
+16,367.090000,0.040000,74.200000,22.980000,1.990000,0.460000,Katherine Ducich,Corporate,Technology,West,High,Regular Air,Small Pack,2,3,8,1,28,8,3,30,28,30
+28,1623.090000,0.020000,245.880000,56.960000,13.220000,0.560000,Vivian Mathis,Home Office,Office Supplies,Quebec,Medium,Regular Air,Small Box,0,3,7,0,5,7,0,5,5,5
+34,307.760000,0.100000,-22.880000,9.380000,4.930000,0.570000,Grant Carroll,Small Business,Furniture,Ontario,Medium,Express Air,Small Box,0,2,4,4,10,4,4,10,10,10
+9,64.030500,0.060000,-58.340000,7.990000,5.030000,0.600000,Becky Castell,Consumer,Technology,Northwest Territories,Not Specified,Regular Air,Medium Box,30,3,9,5,12,10,0,12,12,12
+32,11103.750000,0.100000,-522.590000,370.980000,99.000000,0.650000,Sean Wendt,Corporate,Office Supplies,Prarie,Critical,Delivery Truck,Jumbo Drum,89,1,2,0,1,5,5,1,1,1
+31,3945.950000,0.030000,1031.320000,128.240000,12.650000,0.240000,Erin Creighton,Corporate,Furniture,Ontario,Medium,Regular Air,Medium Box,-173,3,7,4,31,2,6,8,31,8
+26,151.050000,0.090000,-76.140000,5.800000,5.590000,0.400000,Patrick Ryan,Corporate,Office Supplies,Prarie,High,Regular Air,Small Box,1,1,1,5,16,1,6,17,16,17
+5,98.660000,0.100000,-19.520000,18.970000,9.030000,0.370000,Chris Cortes,Consumer,Office Supplies,Atlantic,Critical,Regular Air,Small Box,2,1,1,0,19,1,2,21,19,21
+2,16.970000,0.040000,-8.800000,8.340000,0.960000,0.430000,Grant Thornton,Corporate,Furniture,Yukon,Not Specified,Regular Air,Wrap Bag,29,1,2,6,12,3,0,12,12,12
+36,772.670000,0.000000,286.870000,21.380000,2.990000,0.370000,Luke Foster,Corporate,Office Supplies,Atlantic,Not Specified,Regular Air,Small Box,1,3,9,1,25,9,2,26,25,26
+39,706.392500,0.060000,346.140000,20.990000,0.990000,0.370000,Scot Coram,Corporate,Technology,Ontario,Low,Regular Air,Wrap Bag,5,3,9,2,23,9,0,28,23,28
+18,3267.410000,0.000000,248.190000,170.980000,35.890000,0.660000,Dean Percer,Consumer,Furniture,Atlantic,Medium,Delivery Truck,Jumbo Box,1,4,10,1,20,10,2,21,20,21
+6,256.600000,0.000000,-106.760000,39.980000,7.120000,0.670000,Pauline Chand,Corporate,Technology,Ontario,High,Regular Air,Small Box,2,1,3,1,20,3,3,22,20,22
+6,34.880000,0.060000,-18.340000,4.910000,4.970000,0.380000,Justin Knight,Corporate,Office Supplies,West,High,Regular Air,Small Box,61,2,4,2,7,6,0,7,7,7
+27,826.270000,0.030000,322.880000,29.180000,8.550000,0.420000,Ryan Akin,Consumer,Furniture,Ontario,Medium,Regular Air,Small Box,61,3,8,0,1,10,5,1,1,1
+33,584.511000,0.050000,-95.980000,20.990000,3.300000,0.810000,Annie Thurman,Consumer,Technology,West,Not Specified,Regular Air,Small Pack,60,1,2,0,6,4,4,6,6,6
+6,3378.180000,0.080000,-1352.680000,599.990000,24.490000,0.440000,Juliana Krohn,Corporate,Technology,Yukon,Not Specified,Regular Air,Large Box,30,4,11,0,5,12,2,5,5,5
+21,56.210000,0.050000,12.710000,2.620000,0.800000,0.390000,Sara Luxemburg,Small Business,Office Supplies,Quebec,Critical,Regular Air,Wrap Bag,1,2,5,1,26,5,2,27,26,27
+3,26.230000,0.000000,-13.720000,6.480000,6.600000,0.370000,Joni Blumstein,Home Office,Office Supplies,Ontario,Low,Regular Air,Small Box,-202,4,12,2,5,5,3,17,5,17
+18,168.950000,0.100000,-15.900000,9.780000,5.760000,0.350000,Jay Fine,Consumer,Office Supplies,Atlantic,Medium,Regular Air,Small Box,0,3,9,3,15,9,3,15,15,15
+41,823.130000,0.000000,384.510000,18.940000,1.490000,0.350000,Raymond Book,Consumer,Office Supplies,West,Not Specified,Regular Air,Small Box,2,1,3,2,28,3,4,30,28,30
+8,22.370000,0.040000,-14.090000,2.600000,2.400000,0.580000,Patrick Ryan,Corporate,Office Supplies,Prarie,Critical,Regular Air,Wrap Bag,2,2,4,6,17,4,1,19,17,19
+21,7981.200000,0.020000,-592.520000,376.130000,85.630000,0.740000,Anne Pryor,Home Office,Furniture,Quebec,Low,Delivery Truck,Jumbo Box,7,3,7,4,16,7,4,23,16,23
+43,5677.870000,0.040000,-824.090000,130.980000,54.740000,0.690000,Ed Braxton,Home Office,Furniture,Yukon,Low,Delivery Truck,Jumbo Box,-52,3,8,4,6,6,1,15,6,15
+39,12073.060000,0.030000,5081.870000,315.980000,19.990000,0.380000,William Brown,Home Office,Office Supplies,Prarie,Critical,Regular Air,Small Box,2,4,10,1,20,10,3,22,20,22
+43,540.330000,0.040000,-59.060000,12.440000,6.270000,0.570000,John Lee,Corporate,Office Supplies,Prarie,High,Regular Air,Medium Box,1,4,11,0,16,11,1,17,16,17
+8,487.590000,0.040000,-205.290000,58.140000,36.610000,0.610000,Ken Black,Consumer,Furniture,Prarie,Low,Delivery Truck,Jumbo Box,7,1,1,1,26,2,1,2,26,2
+33,3671.141500,0.020000,995.090000,125.990000,8.990000,0.550000,Toby Grace,Home Office,Technology,Prarie,Low,Regular Air,Small Box,2,3,9,0,24,9,2,26,24,26
+39,110.360000,0.050000,8.600000,2.840000,0.930000,0.540000,Joseph Airdo,Consumer,Office Supplies,Ontario,Critical,Regular Air,Wrap Bag,2,4,10,3,14,10,5,16,14,16
+47,1505.570000,0.020000,-54.630000,30.530000,19.990000,0.390000,Pauline Chand,Corporate,Office Supplies,Ontario,Medium,Express Air,Small Box,2,3,7,4,17,7,6,19,17,19
+21,101.130000,0.020000,-74.410000,4.540000,5.830000,0.360000,Fred Harton,Home Office,Office Supplies,West,Critical,Regular Air,Small Box,1,3,9,0,13,9,1,14,13,14
+41,1258.970000,0.100000,-112.580000,32.980000,5.500000,0.750000,Steven Cartwright,Home Office,Technology,Prarie,Low,Regular Air,Small Box,2,4,10,4,21,10,6,23,21,23
+34,11747.970000,0.050000,3302.030000,363.250000,19.990000,0.570000,Patrick Gardner,Consumer,Office Supplies,Atlantic,Medium,Express Air,Small Box,30,3,9,3,1,10,5,1,1,1
+45,9248.740000,0.000000,2532.000000,200.980000,23.760000,0.580000,Ruben Dartt,Corporate,Furniture,West,Low,Delivery Truck,Jumbo Drum,-203,4,10,0,31,4,0,11,31,11
+43,1711.020000,0.100000,139.630000,43.980000,8.990000,0.580000,Frank Merwin,Corporate,Office Supplies,West,Low,Regular Air,Small Pack,-141,4,10,5,30,6,4,11,30,11
+35,4890.580000,0.050000,310.510000,140.850000,19.990000,0.730000,Jim Kriz,Consumer,Office Supplies,Ontario,Medium,Regular Air,Small Box,31,3,7,6,11,8,2,11,11,11
+43,292.808000,0.050000,-129.690000,7.990000,5.030000,0.600000,Steven Cartwright,Home Office,Technology,Prarie,Not Specified,Regular Air,Medium Box,0,3,8,4,20,8,4,20,20,20
+47,193.630000,0.050000,-152.520000,3.980000,5.260000,0.380000,Joe Kamberova,Small Business,Office Supplies,Ontario,Low,Regular Air,Small Box,4,1,3,2,25,3,6,29,25,29
+27,2575.010000,0.090000,231.460000,99.990000,19.990000,0.520000,Michael Granlund,Home Office,Technology,West,Low,Regular Air,Small Box,-287,4,10,0,25,1,0,11,25,11
+25,854.880000,0.090000,-44.140000,33.980000,19.990000,0.550000,Doug Bickford,Corporate,Furniture,Northwest Territories,Low,Regular Air,Small Box,2,2,5,4,27,5,6,29,27,29
+29,1104.280000,0.080000,359.750000,40.980000,1.990000,0.440000,Liz Carlisle,Corporate,Technology,Prarie,Medium,Regular Air,Small Pack,2,2,5,2,23,5,4,25,23,25
+21,109.290000,0.080000,-77.080000,5.280000,6.260000,0.400000,Barry Blumstein,Small Business,Office Supplies,West,Critical,Regular Air,Small Box,-28,4,12,6,11,11,6,13,11,13
+1,3.850000,0.080000,-1.360000,3.080000,0.990000,0.370000,Adam Hart,Corporate,Office Supplies,West,Not Specified,Regular Air,Small Box,1,1,1,5,30,1,6,31,30,31
+48,184.100000,0.040000,43.200000,3.980000,0.700000,0.520000,Brian Stugart,Corporate,Office Supplies,Atlantic,Low,Regular Air,Wrap Bag,150,1,2,4,4,7,0,4,4,4
+23,1082.430000,0.060000,23.970000,47.980000,3.610000,0.710000,Darren Powers,Corporate,Technology,Ontario,Critical,Regular Air,Small Pack,2,4,12,6,20,12,1,22,20,22
+44,4326.270000,0.090000,1728.200000,100.980000,7.180000,0.400000,Roy Collins,Corporate,Technology,Prarie,Critical,Regular Air,Small Box,1,3,7,4,29,7,5,30,29,30
+18,1769.900000,0.050000,-468.890000,95.990000,35.000000,0.360000,Mark Haberlin,Small Business,Office Supplies,Atlantic,Not Specified,Express Air,Large Box,29,1,2,1,7,3,2,7,7,7
+24,66.120000,0.090000,4.850000,2.880000,0.700000,0.560000,Rob Dowd,Corporate,Office Supplies,West,Critical,Regular Air,Wrap Bag,0,3,7,2,15,7,2,15,15,15
+14,24105.870000,0.070000,4073.250000,2036.480000,14.700000,0.550000,Cari Sayre,Corporate,Technology,West,Not Specified,Delivery Truck,Jumbo Drum,0,3,8,4,21,8,4,21,21,21
+50,600.220000,0.080000,27.860000,12.980000,3.140000,0.600000,Michelle Moray,Corporate,Office Supplies,Prarie,Low,Regular Air,Small Pack,0,2,4,4,1,4,4,1,1,1
+32,6892.070000,0.050000,2754.160000,223.980000,15.010000,0.380000,Toby Grace,Home Office,Office Supplies,Prarie,Critical,Express Air,Small Box,2,2,6,3,28,6,5,30,28,30
+9,34.180000,0.060000,-5.460000,3.600000,2.200000,0.390000,Rachel Payne,Consumer,Office Supplies,Prarie,Critical,Regular Air,Wrap Bag,-261,4,10,4,30,2,2,11,30,11
+24,138.750000,0.090000,49.810000,5.840000,1.000000,0.380000,Karl Brown,Corporate,Office Supplies,Quebec,Low,Regular Air,Wrap Bag,212,1,2,1,1,9,3,1,1,1
+10,2700.410000,0.080000,258.010000,279.810000,23.190000,0.590000,Don Miller,Home Office,Office Supplies,Northwest Territories,High,Delivery Truck,Jumbo Drum,2,3,7,3,21,7,5,23,21,23
+1,316.610000,0.100000,-187.290000,291.730000,48.800000,0.560000,Paul Lucas,Corporate,Furniture,Atlantic,High,Delivery Truck,Jumbo Drum,-262,4,11,1,2,2,5,13,2,13
+26,892.380000,0.000000,366.480000,31.780000,1.990000,0.420000,Emily Grady,Home Office,Technology,West,Not Specified,Regular Air,Small Pack,2,1,2,0,27,2,2,29,27,29
+3,3029.970000,0.000000,-1820.000000,999.990000,13.990000,0.360000,Mitch Webber,Corporate,Technology,Quebec,Not Specified,Regular Air,Medium Box,61,2,4,0,6,6,5,6,6,6
+2,65.310000,0.000000,-34.420000,24.920000,12.980000,0.390000,Laurel Beltran,Consumer,Office Supplies,Prarie,Low,Regular Air,Small Box,0,1,2,3,12,2,3,12,12,12
+40,460.680000,0.010000,-116.760000,10.900000,7.460000,0.590000,Grant Carroll,Small Business,Office Supplies,Northwest Territories,High,Regular Air,Small Box,30,4,11,0,9,12,2,9,9,9
+28,164.500000,0.010000,62.680000,5.840000,1.000000,0.380000,Pamela Stobb,Consumer,Office Supplies,Quebec,Not Specified,Regular Air,Wrap Bag,1,2,6,5,19,6,6,20,19,20
+50,197.360000,0.070000,-43.500000,4.180000,2.990000,0.370000,Quincy Jones,Home Office,Office Supplies,Yukon,Medium,Regular Air,Small Box,1,3,8,1,14,8,2,15,14,15
+31,413.120000,0.100000,-10.220000,14.270000,7.270000,0.380000,Todd Boyes,Small Business,Office Supplies,Ontario,High,Express Air,Small Box,2,2,5,3,26,5,5,28,26,28
+50,207.540000,0.030000,24.210000,4.130000,1.230000,0.550000,Mick Crebagga,Home Office,Office Supplies,Prarie,High,Regular Air,Wrap Bag,2,2,4,4,27,4,6,29,27,29
+36,2144.924000,0.000000,542.250000,65.990000,5.260000,0.590000,Grant Thornton,Corporate,Technology,Yukon,Medium,Regular Air,Small Box,31,3,7,5,4,8,1,4,4,4
+18,360.240000,0.040000,-36.240000,19.980000,4.000000,0.680000,Patrick O'Brill,Home Office,Technology,Atlantic,Critical,Express Air,Small Box,62,3,7,0,11,9,6,11,11,11
+36,246.240000,0.080000,-118.900000,6.680000,7.300000,0.370000,Carol Darley,Small Business,Office Supplies,West,Low,Regular Air,Small Box,-260,4,11,1,2,2,0,15,2,15
+15,107.860000,0.090000,-85.290000,6.480000,9.680000,0.360000,Grace Kelly,Consumer,Office Supplies,West,Low,Express Air,Small Box,214,1,3,4,6,10,1,6,6,6
+21,4201.080000,0.010000,1162.760000,194.300000,11.540000,0.590000,Pauline Chand,Small Business,Furniture,Ontario,Critical,Regular Air,Large Box,61,2,5,4,1,7,2,1,1,1
+7,1494.270000,0.050000,-248.780000,212.600000,52.200000,0.640000,Nora Paige,Small Business,Furniture,West,Medium,Delivery Truck,Jumbo Box,61,4,10,0,4,12,5,4,4,4
+42,152.550000,0.060000,-20.270000,3.690000,2.500000,0.390000,Erica Bern,Corporate,Office Supplies,Atlantic,Medium,Regular Air,Small Box,2,2,5,4,13,5,6,15,13,15
+9,112.120000,0.010000,-8.450000,11.330000,6.120000,0.420000,Ricardo Block,Corporate,Office Supplies,West,High,Regular Air,Medium Box,-205,4,11,3,4,4,1,13,4,13
+14,76.060000,0.020000,-35.990000,4.280000,5.680000,0.400000,Meg O'Connel,Corporate,Office Supplies,Ontario,Low,Express Air,Small Box,2,1,3,4,18,3,6,20,18,20
+31,1768.969000,0.000000,341.100000,65.990000,5.990000,0.580000,Steven Roelle,Small Business,Technology,West,High,Express Air,Small Box,2,4,10,1,20,10,3,22,20,22
+46,636.500000,0.010000,-71.980000,12.990000,9.440000,0.390000,William Brown,Corporate,Technology,Prarie,Not Specified,Regular Air,Medium Box,2,3,9,0,19,9,2,21,19,21
+18,136.290000,0.050000,-77.280000,7.300000,7.720000,0.380000,Ralph Knight,Consumer,Office Supplies,Nunavut,Not Specified,Regular Air,Small Box,1,1,2,3,18,2,4,19,18,19
+5,44.170000,0.020000,23.410000,7.590000,4.000000,0.420000,Stuart Van,Consumer,Furniture,Quebec,Medium,Regular Air,Wrap Bag,3,1,3,5,17,3,1,20,17,20
+37,3351.550000,0.040000,-1036.920000,90.980000,56.200000,0.740000,Dave Hallsten,Home Office,Furniture,Ontario,Low,Express Air,Medium Box,-138,3,7,5,2,2,0,14,2,14
+7,271.270000,0.050000,71.310000,37.930000,13.990000,0.670000,Matt Hagelstein,Home Office,Furniture,Ontario,Medium,Regular Air,Wrap Bag,1,1,2,1,21,2,2,22,21,22
+42,194.200000,0.000000,-139.130000,4.370000,5.150000,0.590000,Patrick Bzostek,Consumer,Office Supplies,West,Critical,Regular Air,Small Box,2,4,10,6,25,10,1,27,25,27
+2,201.178000,0.070000,-604.410000,125.990000,2.500000,0.600000,Denny Blanton,Home Office,Technology,Ontario,Critical,Regular Air,Small Box,0,1,3,4,13,3,4,13,13,13
+39,4799.788500,0.090000,1231.890000,155.990000,3.900000,0.550000,Tanja Norvell,Corporate,Technology,Prarie,Not Specified,Regular Air,Small Box,2,3,7,0,18,7,2,20,18,20
+50,2066.160000,0.020000,372.360000,40.990000,17.480000,0.360000,Delfina Latchford,Small Business,Office Supplies,Northwest Territories,High,Regular Air,Small Box,2,3,8,3,27,8,5,29,27,29
+18,877.640000,0.030000,218.970000,48.580000,3.990000,0.560000,Katherine Nockton,Corporate,Office Supplies,Ontario,Not Specified,Regular Air,Small Box,31,1,1,6,3,2,2,3,3,3
+44,23775.560000,0.030000,7080.990000,535.640000,14.700000,0.590000,Brooke Gillingham,Small Business,Technology,West,High,Delivery Truck,Jumbo Drum,31,3,7,6,8,8,2,8,8,8
+42,213.750000,0.030000,-188.770000,5.020000,5.140000,0.790000,Sandra Glassco,Home Office,Technology,Ontario,Medium,Regular Air,Small Pack,2,2,6,6,20,6,1,22,20,22
+14,211.880000,0.100000,78.450000,15.570000,1.390000,0.380000,Daniel Raglin,Corporate,Office Supplies,Ontario,Medium,Regular Air,Small Box,1,1,3,0,16,3,1,17,16,17
+47,1003.430000,0.010000,208.060000,19.980000,8.680000,0.370000,Janet Lee,Consumer,Office Supplies,Prarie,High,Regular Air,Small Box,1,1,2,5,14,2,6,15,14,15
+13,542.600000,0.030000,118.400000,40.980000,1.990000,0.440000,Erin Ashbrook,Consumer,Technology,Ontario,Low,Regular Air,Small Pack,0,1,2,2,15,2,2,15,15,15
+44,1190.800000,0.070000,502.490000,28.530000,1.490000,0.380000,Lela Donovan,Corporate,Office Supplies,West,Medium,Regular Air,Small Box,1,3,8,6,22,8,0,23,22,23
+38,283.650000,0.020000,-29.210000,6.680000,5.410000,0.370000,Joe Elijah,Home Office,Office Supplies,Prarie,Critical,Express Air,Small Box,59,1,1,5,8,3,1,8,8,8
+23,203.910000,0.020000,-35.440000,8.600000,6.190000,0.380000,Tony Molinari,Corporate,Office Supplies,West,Critical,Regular Air,Small Box,61,3,8,1,11,10,6,11,11,11
+7,2423.060000,0.060000,-94.270000,348.210000,40.190000,0.620000,Brenda Bowman,Home Office,Furniture,Quebec,Critical,Delivery Truck,Jumbo Box,1,4,10,4,29,10,5,30,29,30
+37,311.660000,0.040000,-63.810000,8.600000,6.190000,0.380000,Edward Becker,Home Office,Office Supplies,Ontario,Low,Regular Air,Small Box,7,1,2,0,16,2,0,23,16,23
+42,4346.980000,0.050000,10.220000,100.980000,35.840000,0.620000,Mick Crebagga,Home Office,Furniture,Prarie,Medium,Delivery Truck,Jumbo Box,2,4,10,0,17,10,2,19,17,19
+37,5753.850000,0.000000,2509.520000,150.980000,13.990000,0.380000,Frank Price,Corporate,Technology,Northwest Territories,Low,Regular Air,Medium Box,274,1,2,4,3,11,5,3,3,3
+5,2168.050000,0.000000,416.020000,420.980000,19.990000,0.350000,Barry Pond,Consumer,Office Supplies,West,Medium,Regular Air,Small Box,-176,4,11,4,5,5,3,13,5,13
+46,7928.562000,0.080000,2229.480000,205.990000,5.000000,0.590000,Cynthia Delaney,Corporate,Technology,West,Not Specified,Regular Air,Small Box,1,2,6,4,29,6,5,30,29,30
+12,3156.600000,0.100000,454.260000,276.200000,24.490000,0.360000,Joy Daniels,Corporate,Furniture,Prarie,Low,Regular Air,Large Box,4,2,6,0,13,6,4,17,13,17
+32,4655.070000,0.000000,-270.630000,140.980000,53.480000,0.650000,Grant Carroll,Corporate,Furniture,Northwest Territories,High,Delivery Truck,Jumbo Box,1,3,8,1,16,8,2,17,16,17
+26,122.510000,0.060000,45.140000,4.980000,0.800000,0.360000,Seth Vernon,Home Office,Office Supplies,West,Low,Regular Air,Wrap Bag,4,3,7,1,20,7,5,24,20,24
+31,229.260000,0.000000,-37.200000,6.810000,5.480000,0.370000,Bobby Trafton,Small Business,Office Supplies,West,Not Specified,Regular Air,Small Box,31,2,5,1,11,6,4,11,11,11
+8,70.550000,0.000000,-66.170000,7.380000,11.510000,0.360000,Phillip Flathmann,Small Business,Office Supplies,Quebec,High,Regular Air,Small Box,30,2,4,5,4,5,0,4,4,4
+37,3259.250000,0.040000,580.330000,90.970000,28.000000,0.380000,Brendan Murry,Corporate,Technology,Yukon,Medium,Delivery Truck,Jumbo Drum,1,2,4,5,28,4,6,29,28,29
+41,257.660000,0.050000,-69.230000,6.480000,2.740000,0.710000,Jeremy Lonsdale,Corporate,Technology,Prarie,High,Regular Air,Small Pack,0,3,9,5,5,9,5,5,5,5
+46,134.810000,0.100000,52.360000,3.150000,0.490000,0.370000,Philip Brown,Home Office,Office Supplies,Ontario,Low,Regular Air,Small Box,2,2,6,2,16,6,4,18,16,18
+42,2475.830000,0.090000,752.370000,59.980000,3.990000,0.570000,Doug Bickford,Corporate,Office Supplies,Northwest Territories,Medium,Regular Air,Small Box,92,3,7,5,3,10,6,3,3,3
+36,17304.850000,0.050000,7434.480000,500.980000,28.140000,0.380000,Mary Zewe,Corporate,Technology,Prarie,High,Delivery Truck,Jumbo Drum,2,4,10,6,14,10,1,16,14,16
+32,690.880000,0.080000,119.250000,22.980000,7.580000,0.510000,Maria Bertelson,Home Office,Furniture,Prarie,Medium,Regular Air,Small Box,1,4,12,6,12,12,0,13,12,13
+32,210.900000,0.030000,-62.460000,6.480000,5.740000,0.370000,Anthony Garverick,Small Business,Office Supplies,Prarie,Medium,Regular Air,Small Box,3,1,1,3,14,1,6,17,14,17
+49,1400.910000,0.090000,-163.530000,30.980000,19.510000,0.360000,Jim Kriz,Consumer,Office Supplies,Ontario,Low,Regular Air,Small Box,61,1,3,3,5,5,1,5,5,5
+38,465.900000,0.050000,79.340000,12.280000,4.860000,0.380000,Aaron Hawkins,Home Office,Office Supplies,Atlantic,High,Regular Air,Small Box,1,4,10,6,30,10,0,31,30,31
+29,1617.880000,0.000000,271.900000,53.980000,5.500000,0.620000,Tom Prescott,Small Business,Technology,West,Medium,Regular Air,Small Box,3,4,11,4,18,11,0,21,18,21
+23,6641.140000,0.050000,673.770000,300.980000,64.730000,0.560000,Henry Goldwyn,Small Business,Furniture,Atlantic,High,Delivery Truck,Jumbo Drum,2,4,12,4,30,1,6,1,30,1
+17,734.250000,0.080000,160.580000,42.980000,4.620000,0.560000,Max Ludwig,Corporate,Office Supplies,Prarie,Medium,Express Air,Small Box,2,1,1,4,29,1,6,31,29,31
+3,31.950000,0.100000,-23.690000,8.040000,8.940000,0.400000,Jonathan Doherty,Corporate,Office Supplies,Prarie,Not Specified,Regular Air,Small Box,-28,4,11,5,10,10,5,13,10,13
+50,7312.031500,0.060000,2031.510000,175.990000,8.990000,0.570000,Aleksandra Gannaway,Corporate,Technology,Yukon,Medium,Regular Air,Small Box,61,2,4,3,9,6,1,9,9,9
+26,1029.290000,0.060000,109.160000,40.990000,17.480000,0.360000,Lindsay Castell,Small Business,Office Supplies,Quebec,High,Regular Air,Small Box,0,2,4,1,21,4,1,21,21,21
+32,671.750000,0.070000,-56.830000,20.970000,4.000000,0.770000,Rick Bensley,Consumer,Technology,Prarie,High,Regular Air,Small Box,2,4,11,4,18,11,6,20,18,20
+34,390.350000,0.050000,71.030000,11.550000,2.360000,0.550000,Bradley Talbott,Small Business,Office Supplies,Atlantic,Not Specified,Regular Air,Wrap Bag,1,1,2,0,14,2,1,15,14,15
